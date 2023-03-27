@@ -1,0 +1,1732 @@
+DB00004,Denileukin diftitox,unknown,Null
+DB00004,Denileukin diftitox,yes,agonist
+DB00004,Denileukin diftitox,yes,binder
+DB00041,Aldesleukin,unknown,inhibitor
+DB00041,Aldesleukin,yes,Null
+DB00041,Aldesleukin,yes,agonist
+DB00074,Basiliximab,unknown,antibody
+DB00074,Basiliximab,yes,antibody
+DB00082,Pegvisomant,unknown,inducer
+DB00082,Pegvisomant,unknown,inhibitor
+DB00091,Cyclosporine,unknown,Null
+DB00104,Octreotide,no,inhibitor
+DB00111,Daclizumab,yes,antibody
+DB00114,Pyridoxal phosphate,unknown,activator
+DB00114,Pyridoxal phosphate,unknown,cofactor
+DB00115,Cyanocobalamin,unknown,cofactor
+DB00115,Cyanocobalamin,yes,cofactor
+DB00116,Tetrahydrofolic acid,unknown,cofactor
+DB00118,Ademetionine,unknown,cofactor
+DB00120,Phenylalanine,unknown,Null
+DB00121,Biotin,unknown,cofactor
+DB00125,Arginine,unknown,Null
+DB00126,Ascorbic acid,unknown,cofactor
+DB00126,Ascorbic acid,unknown,substrate
+DB00128,Aspartic acid,unknown,Null
+DB00128,Aspartic acid,unknown,substrate
+DB00129,Ornithine,unknown,Null
+DB00130,L-Glutamine,unknown,product of
+DB00130,L-Glutamine,unknown,substrate
+DB00131,Adenosine phosphate,unknown,antagonist
+DB00131,Adenosine phosphate,unknown,product of
+DB00134,Methionine,unknown,inhibitor
+DB00134,Methionine,unknown,product of
+DB00134,Methionine,unknown,substrate
+DB00135,Tyrosine,unknown,Null
+DB00136,Calcitriol,unknown,Null
+DB00139,Succinic acid,unknown,product of
+DB00140,Riboflavin,unknown,cofactor
+DB00140,Riboflavin,yes,ligand
+DB00140,Riboflavin,yes,other
+DB00141,N-Acetylglucosamine,unknown,Null
+DB00142,Glutamic acid,unknown,Null
+DB00142,Glutamic acid,unknown,product of
+DB00143,Glutathione,unknown,Null
+DB00144,Phosphatidyl serine,unknown,Null
+DB00145,Glycine,unknown,substrate
+DB00149,Leucine,unknown,Null
+DB00151,Cysteine,unknown,substrate
+DB00155,Citrulline,unknown,Null
+DB00157,NADH,unknown,Null
+DB00158,Folic acid,unknown,substrate
+DB00159,Icosapent,unknown,inducer
+DB00161,Valine,unknown,Null
+DB00161,Valine,unknown,substrate
+DB00163,Vitamin E,unknown,Null
+DB00165,Pyridoxine,unknown,substrate
+DB00167,Isoleucine,unknown,Null
+DB00169,Cholecalciferol,unknown,substrate
+DB00170,Menadione,unknown,inhibitor
+DB00170,Menadione,unknown,substrate
+DB00171,ATP,unknown,Null
+DB00172,Proline,unknown,Null
+DB00176,Fluvoxamine,unknown,Null
+DB00176,Fluvoxamine,unknown,inhibitor
+DB00180,Flunisolide,unknown,Null
+DB00184,Nicotine,unknown,substrate
+DB00185,Cevimeline,unknown,substrate
+DB00186,Lorazepam,no,substrate
+DB00188,Bortezomib,no,substrate
+DB00191,Phentermine,no,substrate
+DB00193,Tramadol,unknown,substrate
+DB00196,Fluconazole,unknown,inhibitor
+DB00197,Troglitazone,no,inhibitor
+DB00197,Troglitazone,unknown,inducer
+DB00199,Erythromycin,no,Null
+DB00200,Hydroxocobalamin,yes,cofactor
+DB00201,Caffeine,unknown,substrate
+DB00203,Sildenafil,unknown,substrate
+DB00204,Dofetilide,unknown,substrate
+DB00207,Azithromycin,unknown,Null
+DB00210,Adapalene,unknown,inhibitor
+DB00213,Pantoprazole,unknown,substrate
+DB00215,Citalopram,unknown,Null
+DB00216,Eletriptan,unknown,substrate
+DB00220,Nelfinavir,no,Null
+DB00224,Indinavir,unknown,Null
+DB00227,Lovastatin,unknown,Null
+DB00231,Temazepam,unknown,substrate
+DB00232,Methyclothiazide,unknown,inhibitor
+DB00234,Reboxetine,unknown,Null
+DB00238,Nevirapine,unknown,Null
+DB00239,Oxiconazole,unknown,inducer
+DB00240,Alclometasone,no,substrate
+DB00242,Cladribine,yes,inhibitor
+DB00243,Ranolazine,no,Null
+DB00246,Ziprasidone,unknown,substrate
+DB00247,Methysergide,no,substrate
+DB00248,Cabergoline,unknown,substrate
+DB00250,Dapsone,unknown,substrate
+DB00252,Phenytoin,no,Null
+DB00253,Medrysone,no,Null
+DB00254,Doxycycline,unknown,inhibitor
+DB00255,Diethylstilbestrol,unknown,Null
+DB00257,Clotrimazole,unknown,Null
+DB00260,Cycloserine,yes,inhibitor
+DB00264,Metoprolol,no,substrate
+DB00270,Isradipine,unknown,Null
+DB00273,Topiramate,unknown,inducer
+DB00273,Topiramate,unknown,inhibitor
+DB00273,Topiramate,yes,inhibitor
+DB00277,Theophylline,unknown,Null
+DB00277,Theophylline,unknown,substrate
+DB00278,Argatroban,unknown,substrate
+DB00280,Disopyramide,unknown,substrate
+DB00281,Lidocaine,unknown,substrate
+DB00282,Pamidronic acid,yes,inhibitor
+DB00285,Venlafaxine,unknown,substrate
+DB00286,Conjugated estrogens,no,substrate
+DB00288,Amcinonide,no,Null
+DB00293,Raltitrexed,unknown,antagonist
+DB00294,Etonogestrel,no,substrate
+DB00295,Morphine,no,substrate
+DB00296,Ropivacaine,unknown,substrate
+DB00297,Bupivacaine,unknown,substrate
+DB00300,Tenofovir disoproxil,unknown,substrate
+DB00301,Flucloxacillin,unknown,Null
+DB00304,Desogestrel,no,substrate
+DB00307,Bexarotene,unknown,Null
+DB00309,Vindesine,unknown,substrate
+DB00310,Chlorthalidone,yes,inhibitor
+DB00311,Ethoxzolamide,unknown,inhibitor
+DB00311,Ethoxzolamide,yes,inhibitor
+DB00312,Pentobarbital,unknown,inducer
+DB00313,Valproic acid,unknown,inhibitor
+DB00316,Acetaminophen,unknown,Null
+DB00317,Gefitinib,unknown,Null
+DB00318,Codeine,unknown,substrate
+DB00320,Dihydroergotamine,unknown,Null
+DB00321,Amitriptyline,unknown,substrate
+DB00324,Fluorometholone,unknown,Null
+DB00330,Ethambutol,unknown,inhibitor
+DB00333,Methadone,no,inhibitor
+DB00333,Methadone,unknown,Null
+DB00334,Olanzapine,unknown,inhibitor
+DB00337,Pimecrolimus,unknown,substrate
+DB00338,Omeprazole,unknown,Null
+DB00342,Terfenadine,unknown,Null
+DB00343,Diltiazem,unknown,Null
+DB00346,Alfuzosin,unknown,substrate
+DB00347,Trimethadione,unknown,substrate
+DB00349,Clobazam,no,Null
+DB00351,Megestrol acetate,no,substrate
+DB00353,Methylergometrine,unknown,Null
+DB00356,Chlorzoxazone,unknown,Null
+DB00357,Aminoglutethimide,unknown,inducer
+DB00358,Mefloquine,unknown,Null
+DB00359,Sulfadiazine,unknown,substrate
+DB00360,Sapropterin,yes,cofactor
+DB00361,Vinorelbine,no,substrate
+DB00363,Clozapine,no,Null
+DB00365,Grepafloxacin,unknown,substrate
+DB00367,Levonorgestrel,unknown,substrate
+DB00368,Norepinephrine,no,inhibitor
+DB00370,Mirtazapine,unknown,Null
+DB00377,Palonosetron,unknown,substrate
+DB00378,Dydrogesterone,no,substrate
+DB00379,Mexiletine,unknown,substrate
+DB00381,Amlodipine,no,substrate
+DB00381,Amlodipine,unknown,inhibitor
+DB00391,Sulpiride,unknown,inhibitor
+DB00393,Nimodipine,unknown,substrate
+DB00394,Beclomethasone dipropionate,no,Null
+DB00396,Progesterone,unknown,Null
+DB00398,Sorafenib,unknown,Null
+DB00399,Zoledronic acid,yes,inhibitor
+DB00400,Griseofulvin,unknown,inducer
+DB00401,Nisoldipine,unknown,substrate
+DB00402,Eszopiclone,unknown,substrate
+DB00404,Alprazolam,unknown,substrate
+DB00409,Remoxipride,unknown,inhibitor
+DB00412,Rosiglitazone,no,Null
+DB00412,Rosiglitazone,unknown,inhibitor
+DB00420,Promazine,unknown,substrate
+DB00423,Methocarbamol,no,inhibitor
+DB00425,Zolpidem,unknown,substrate
+DB00435,Nitric Oxide,unknown,inhibitor
+DB00436,Bendroflumethiazide,unknown,inhibitor
+DB00439,Cerivastatin,unknown,Null
+DB00440,Trimethoprim,unknown,substrate
+DB00441,Gemcitabine,no,substrate
+DB00441,Gemcitabine,unknown,inhibitor
+DB00441,Gemcitabine,yes,inhibitor
+DB00443,Betamethasone,unknown,Null
+DB00444,Teniposide,unknown,Null
+DB00446,Chloramphenicol,unknown,inhibitor
+DB00448,Lansoprazole,unknown,Null
+DB00454,Meperidine,unknown,Null
+DB00455,Loratadine,no,Null
+DB00458,Imipramine,unknown,substrate
+DB00466,Picrotoxin,unknown,inhibitor
+DB00468,Quinine,unknown,Null
+DB00470,Dronabinol,no,Null
+DB00471,Montelukast,unknown,substrate
+DB00472,Fluoxetine,no,Null
+DB00475,Chlordiazepoxide,unknown,substrate
+DB00476,Duloxetine,unknown,inhibitor
+DB00477,Chlorpromazine,unknown,inducer
+DB00481,Raloxifene,unknown,inhibitor
+DB00482,Celecoxib,unknown,inhibitor
+DB00482,Celecoxib,unknown,substrate
+DB00485,Dicloxacillin,unknown,inducer
+DB00486,Nabilone,unknown,Null
+DB00490,Buspirone,unknown,substrate
+DB00495,Zidovudine,unknown,substrate
+DB00496,Darifenacin,unknown,substrate
+DB00497,Oxycodone,unknown,substrate
+DB00499,Flutamide,unknown,substrate
+DB00501,Cimetidine,unknown,inhibitor
+DB00502,Haloperidol,unknown,Null
+DB00503,Ritonavir,unknown,Null
+DB00514,Dextromethorphan,unknown,substrate
+DB00518,Albendazole,unknown,substrate
+DB00520,Caspofungin,unknown,inhibitor
+DB00528,Lercanidipine,unknown,Null
+DB00530,Erlotinib,unknown,Null
+DB00531,Cyclophosphamide,unknown,Null
+DB00533,Rofecoxib,unknown,Null
+DB00537,Ciprofloxacin,unknown,inhibitor
+DB00539,Toremifene,unknown,Null
+DB00540,Nortriptyline,unknown,substrate
+DB00541,Vincristine,unknown,substrate
+DB00542,Benazepril,unknown,substrate
+DB00544,Fluorouracil,unknown,substrate
+DB00545,Pyridostigmine,no,inducer
+DB00546,Adinazolam,unknown,substrate
+DB00548,Azelaic acid,yes,inhibitor
+DB00549,Zafirlukast,unknown,Null
+DB00557,Hydroxyzine,no,substrate
+DB00559,Bosentan,unknown,Null
+DB00562,Benzthiazide,unknown,inhibitor
+DB00562,Benzthiazide,yes,inhibitor
+DB00563,Methotrexate,no,substrate
+DB00563,Methotrexate,unknown,substrate
+DB00564,Carbamazepine,unknown,Null
+DB00568,Cinnarizine,no,substrate
+DB00570,Vinblastine,unknown,Null
+DB00571,Propranolol,unknown,substrate
+DB00574,Fenfluramine,unknown,substrate
+DB00575,Clonidine,unknown,substrate
+DB00577,Valaciclovir,unknown,substrate
+DB00580,Valdecoxib,unknown,inhibitor
+DB00580,Valdecoxib,unknown,substrate
+DB00582,Voriconazole,unknown,Null
+DB00586,Diclofenac,unknown,Null
+DB00588,Fluticasone propionate,unknown,Null
+DB00589,Lisuride,unknown,substrate
+DB00590,Doxazosin,no,substrate
+DB00591,Fluocinolone acetonide,no,Null
+DB00593,Ethosuximide,unknown,substrate
+DB00599,Thiopental,unknown,substrate
+DB00602,Ivermectin,no,substrate
+DB00603,Medroxyprogesterone acetate,unknown,Null
+DB00604,Cisapride,unknown,substrate
+DB00606,Cyclothiazide,unknown,inhibitor
+DB00606,Cyclothiazide,yes,inhibitor
+DB00607,Nafcillin,unknown,inducer
+DB00608,Chloroquine,unknown,substrate
+DB00612,Bisoprolol,unknown,substrate
+DB00615,Rifabutin,unknown,Null
+DB00617,Paramethadione,unknown,substrate
+DB00619,Imatinib,no,Null
+DB00620,Triamcinolone,unknown,Null
+DB00622,Nicardipine,unknown,Null
+DB00624,Testosterone,unknown,Null
+DB00625,Efavirenz,unknown,Null
+DB00627,Niacin,unknown,inhibitor
+DB00627,Niacin,yes,binder
+DB00628,Clorazepic acid,unknown,substrate
+DB00630,Alendronic acid,unknown,inhibitor
+DB00630,Alendronic acid,yes,inhibitor
+DB00631,Clofarabine,yes,inhibitor
+DB00635,Prednisone,unknown,Null
+DB00635,Prednisone,unknown,inducer
+DB00636,Clofibrate,unknown,Null
+DB00637,Astemizole,unknown,Null
+DB00640,Adenosine,unknown,substrate
+DB00641,Simvastatin,unknown,substrate
+DB00643,Mebendazole,unknown,substrate
+DB00647,Dextropropoxyphene,unknown,Null
+DB00647,Dextropropoxyphene,unknown,inhibitor
+DB00648,Mitotane,unknown,inducer
+DB00655,Estrone,no,substrate
+DB00656,Trazodone,unknown,substrate
+DB00661,Verapamil,unknown,Null
+DB00663,Flumethasone,no,substrate
+DB00668,Epinephrine,unknown,inhibitor
+DB00673,Aprepitant,unknown,Null
+DB00674,Galantamine,no,substrate
+DB00675,Tamoxifen,unknown,Null
+DB00678,Losartan,unknown,Null
+DB00682,Warfarin,unknown,Null
+DB00683,Midazolam,unknown,Null
+DB00687,Fludrocortisone,unknown,substrate
+DB00688,Mycophenolate mofetil,unknown,substrate
+DB00688,Mycophenolate mofetil,yes,Null
+DB00688,Mycophenolate mofetil,yes,inhibitor
+DB00690,Flurazepam,unknown,substrate
+DB00694,Daunorubicin,unknown,Null
+DB00695,Furosemide,no,inhibitor
+DB00696,Ergotamine,unknown,Null
+DB00700,Eplerenone,unknown,substrate
+DB00701,Amprenavir,unknown,Null
+DB00703,Methazolamide,unknown,inhibitor
+DB00703,Methazolamide,yes,inhibitor
+DB00705,Delavirdine,unknown,Null
+DB00706,Tamsulosin,unknown,substrate
+DB00708,Sufentanil,unknown,substrate
+DB00709,Lamivudine,unknown,substrate
+DB00710,Ibandronate,yes,inhibitor
+DB00714,Apomorphine,unknown,Null
+DB00715,Paroxetine,no,Null
+DB00717,Norethisterone,unknown,substrate
+DB00718,Adefovir dipivoxil,unknown,substrate
+DB00719,Azatadine,unknown,inducer
+DB00724,Imiquimod,unknown,substrate
+DB00731,Nateglinide,unknown,substrate
+DB00734,Risperidone,unknown,substrate
+DB00736,Esomeprazole,unknown,substrate
+DB00741,Hydrocortisone,unknown,Null
+DB00744,Zileuton,unknown,substrate
+DB00745,Modafinil,unknown,Null
+DB00747,Scopolamine,no,substrate
+DB00751,Epinastine,unknown,substrate
+DB00752,Tranylcypromine,unknown,inhibitor
+DB00755,Tretinoin,unknown,substrate
+DB00757,Dolasetron,unknown,substrate
+DB00758,Clopidogrel,no,substrate
+DB00759,Tetracycline,unknown,Null
+DB00762,Irinotecan,unknown,Null
+DB00763,Methimazole,unknown,inhibitor
+DB00764,Mometasone,no,Null
+DB00768,Olopatadine,no,substrate
+DB00769,Hydrocortamate,unknown,inducer
+DB00773,Etoposide,unknown,Null
+DB00774,Hydroflumethiazide,unknown,inhibitor
+DB00776,Oxcarbazepine,unknown,Null
+DB00778,Roxithromycin,no,Null
+DB00780,Phenelzine,unknown,inhibitor
+DB00783,Estradiol,unknown,substrate
+DB00787,Acyclovir,unknown,substrate
+DB00794,Primidone,unknown,inducer
+DB00802,Alfentanil,unknown,substrate
+DB00808,Indapamide,unknown,substrate
+DB00811,Ribavirin,unknown,Null
+DB00811,Ribavirin,yes,inhibitor
+DB00812,Phenylbutazone,unknown,inducer
+DB00813,Fentanyl,unknown,substrate
+DB00814,Meloxicam,unknown,substrate
+DB00819,Acetazolamide,unknown,inhibitor
+DB00819,Acetazolamide,yes,inhibitor
+DB00820,Tadalafil,no,substrate
+DB00822,Disulfiram,unknown,substrate
+DB00823,Ethynodiol diacetate,no,substrate
+DB00825,Levomenthol,no,substrate
+DB00828,Fosfomycin,yes,inhibitor
+DB00829,Diazepam,unknown,Null
+DB00834,Mifepristone,unknown,Null
+DB00836,Loperamide,unknown,Null
+DB00836,Loperamide,unknown,modulator
+DB00843,Donepezil,unknown,substrate
+DB00845,Clofazimine,unknown,inhibitor
+DB00846,Flurandrenolide,no,substrate
+DB00848,Levamisole,unknown,inhibitor
+DB00850,Perphenazine,unknown,substrate
+DB00855,Aminolevulinic acid,yes,inducer
+DB00856,Chlorphenesin,unknown,inducer
+DB00857,Terbinafine,unknown,Null
+DB00860,Prednisolone,unknown,Null
+DB00862,Vardenafil,unknown,Null
+DB00863,Ranitidine,unknown,inhibitor
+DB00864,Tacrolimus,unknown,substrate
+DB00865,Benzphetamine,unknown,substrate
+DB00869,Dorzolamide,unknown,inhibitor
+DB00869,Dorzolamide,yes,inhibitor
+DB00872,Conivaptan,unknown,Null
+DB00877,Sirolimus,no,substrate
+DB00880,Chlorothiazide,yes,inhibitor
+DB00884,Risedronic acid,yes,inhibitor
+DB00889,Granisetron,unknown,substrate
+DB00896,Rimexolone,no,Null
+DB00897,Triazolam,unknown,substrate
+DB00898,Ethanol,unknown,Null
+DB00904,Ondansetron,unknown,substrate
+DB00905,Bimatoprost,unknown,substrate
+DB00906,Tiagabine,unknown,substrate
+DB00907,Cocaine,unknown,substrate
+DB00908,Quinidine,unknown,Null
+DB00909,Zonisamide,unknown,inhibitor
+DB00909,Zonisamide,unknown,substrate
+DB00910,Paricalcitol,unknown,substrate
+DB00911,Tinidazole,unknown,substrate
+DB00912,Repaglinide,unknown,substrate
+DB00916,Metronidazole,unknown,inhibitor
+DB00918,Almotriptan,unknown,substrate
+DB00921,Buprenorphine,unknown,Null
+DB00924,Cyclobenzaprine,unknown,substrate
+DB00932,Tipranavir,unknown,Null
+DB00938,Salmeterol,unknown,substrate
+DB00946,Phenprocoumon,unknown,substrate
+DB00947,Fulvestrant,unknown,substrate
+DB00949,Felbamate,unknown,Null
+DB00951,Isoniazid,unknown,Null
+DB00951,Isoniazid,unknown,inhibitor
+DB00954,Dirithromycin,no,inhibitor
+DB00956,Hydrocodone,unknown,substrate
+DB00957,Norgestimate,unknown,Null
+DB00959,Methylprednisolone,unknown,Null
+DB00962,Zaleplon,unknown,substrate
+DB00969,Alosetron,unknown,substrate
+DB00972,Azelastine,unknown,Null
+DB00973,Ezetimibe,unknown,inhibitor
+DB00976,Telithromycin,unknown,Null
+DB00977,Ethinylestradiol,unknown,substrate
+DB00980,Ramelteon,unknown,substrate
+DB00982,Isotretinoin,unknown,substrate
+DB00986,Glycopyrronium,unknown,substrate
+DB00987,Cytarabine,unknown,substrate
+DB00990,Exemestane,unknown,substrate
+DB00993,Azathioprine,unknown,substrate
+DB00996,Gabapentin,unknown,inhibitor
+DB00997,Doxorubicin,no,Null
+DB01001,Salbutamol,unknown,inhibitor
+DB01002,Levobupivacaine,unknown,substrate
+DB01005,Hydroxyurea,yes,inhibitor
+DB01006,Letrozole,unknown,substrate
+DB01007,Tioconazole,unknown,inhibitor
+DB01008,Busulfan,unknown,substrate
+DB01011,Metyrapone,unknown,Null
+DB01012,Cinacalcet,unknown,substrate
+DB01013,Clobetasol propionate,no,Null
+DB01015,Sulfamethoxazole,unknown,substrate
+DB01016,Glyburide,unknown,Null
+DB01018,Guanfacine,unknown,substrate
+DB01021,Trichlormethiazide,unknown,inhibitor
+DB01023,Felodipine,unknown,substrate
+DB01024,Mycophenolic acid,unknown,substrate
+DB01024,Mycophenolic acid,yes,inhibitor
+DB01026,Ketoconazole,unknown,Null
+DB01028,Methoxyflurane,unknown,substrate
+DB01029,Irbesartan,no,inhibitor
+DB01031,Ethinamate,yes,inhibitor
+DB01032,Probenecid,unknown,Null
+DB01032,Probenecid,unknown,inducer
+DB01033,Mercaptopurine,unknown,inhibitor
+DB01034,Cerulenin,yes,inhibitor
+DB01036,Tolterodine,unknown,substrate
+DB01037,Selegiline,unknown,substrate
+DB01041,Thalidomide,no,Null
+DB01045,Rifampicin,unknown,inducer
+DB01047,Fluocinonide,no,Null
+DB01049,Ergoloid mesylate,no,substrate
+DB01050,Ibuprofen,no,substrate
+DB01054,Nitrendipine,unknown,substrate
+DB01058,Praziquantel,unknown,substrate
+DB01059,Norfloxacin,unknown,inhibitor
+DB01062,Oxybutynin,unknown,Null
+DB01068,Clonazepam,unknown,substrate
+DB01071,Mequitazine,unknown,inhibitor
+DB01072,Atazanavir,unknown,Null
+DB01073,Fludarabine,yes,inhibitor
+DB01074,Perhexiline,unknown,substrate
+DB01076,Atorvastatin,no,substrate
+DB01077,Etidronic acid,unknown,inhibitor
+DB01083,Orlistat,unknown,inducer
+DB01083,Orlistat,unknown,inhibitor
+DB01085,Pilocarpine,unknown,inhibitor
+DB01087,Primaquine,unknown,Null
+DB01093,Dimethyl sulfoxide,unknown,inhibitor
+DB01095,Fluvastatin,unknown,Null
+DB01100,Pimozide,unknown,substrate
+DB01103,Quinacrine,unknown,substrate
+DB01104,Sertraline,unknown,Null
+DB01105,Sibutramine,unknown,substrate
+DB01110,Miconazole,unknown,inhibitor
+DB01114,Chlorpheniramine,unknown,substrate
+DB01115,Nifedipine,unknown,Null
+DB01117,Atovaquone,no,substrate
+DB01118,Amiodarone,no,Null
+DB01119,Diazoxide,unknown,inhibitor
+DB01127,Econazole,no,inhibitor
+DB01128,Bicalutamide,unknown,Null
+DB01129,Rabeprazole,unknown,Null
+DB01130,Prednicarbate,no,substrate
+DB01132,Pioglitazone,unknown,Null
+DB01133,Tiludronic acid,unknown,inhibitor
+DB01134,Desoxycorticosterone pivalate,no,substrate
+DB01136,Carvedilol,unknown,substrate
+DB01138,Sulfinpyrazone,unknown,Null
+DB01142,Doxepin,no,substrate
+DB01143,Amifostine,unknown,substrate
+DB01143,Amifostine,yes,inducer
+DB01144,Diclofenamide,unknown,inhibitor
+DB01144,Diclofenamide,yes,inhibitor
+DB01149,Nefazodone,no,inhibitor
+DB01149,Nefazodone,unknown,Null
+DB01151,Desipramine,unknown,inhibitor
+DB01152,Candicidin,no,inhibitor
+DB01154,Thiamylal,no,Null
+DB01159,Halothane,unknown,substrate
+DB01166,Cilostazol,unknown,substrate
+DB01167,Itraconazole,no,Null
+DB01167,Itraconazole,no,inhibitor
+DB01169,Arsenic trioxide,unknown,inhibitor
+DB01169,Arsenic trioxide,yes,inhibitor
+DB01173,Orphenadrine,unknown,Null
+DB01174,Phenobarbital,unknown,inducer
+DB01175,Escitalopram,unknown,substrate
+DB01181,Ifosfamide,unknown,Null
+DB01182,Propafenone,unknown,substrate
+DB01183,Naloxone,unknown,Null
+DB01184,Domperidone,unknown,substrate
+DB01186,Pergolide,unknown,inhibitor
+DB01190,Clindamycin,unknown,Null
+DB01192,Oxymorphone,unknown,substrate
+DB01194,Brinzolamide,unknown,inhibitor
+DB01194,Brinzolamide,unknown,substrate
+DB01194,Brinzolamide,yes,inhibitor
+DB01196,Estramustine,unknown,substrate
+DB01198,Zopiclone,unknown,substrate
+DB01200,Bromocriptine,no,Null
+DB01201,Rifapentine,unknown,Null
+DB01201,Rifapentine,unknown,inducer
+DB01204,Mitoxantrone,unknown,inhibitor
+DB01206,Lomustine,unknown,inhibitor
+DB01211,Clarithromycin,unknown,Null
+DB01212,Ceftriaxone,unknown,inducer
+DB01215,Estazolam,unknown,substrate
+DB01216,Finasteride,unknown,substrate
+DB01217,Anastrozole,unknown,Null
+DB01218,Halofantrine,unknown,substrate
+DB01220,Rifaximin,unknown,Null
+DB01221,Ketamine,unknown,Null
+DB01222,Budesonide,no,Null
+DB01222,Budesonide,unknown,Null
+DB01223,Aminophylline,unknown,substrate
+DB01224,Quetiapine,unknown,substrate
+DB01227,Levacetylmethadol,unknown,substrate
+DB01229,Paclitaxel,unknown,Null
+DB01232,Saquinavir,unknown,Null
+DB01233,Metoclopramide,unknown,substrate
+DB01234,Dexamethasone,unknown,Null
+DB01236,Sevoflurane,unknown,substrate
+DB01238,Aripiprazole,no,substrate
+DB01241,Gemfibrozil,unknown,substrate
+DB01242,Clomipramine,unknown,substrate
+DB01244,Bepridil,no,substrate
+DB01248,Docetaxel,unknown,Null
+DB01253,Ergometrine,unknown,substrate
+DB01254,Dasatinib,unknown,Null
+DB01254,Dasatinib,unknown,binder
+DB01256,Retapamulin,unknown,substrate
+DB01259,Lapatinib,unknown,Null
+DB01260,Desonide,no,Null
+DB01261,Sitagliptin,unknown,substrate
+DB01262,Decitabine,yes,substrate
+DB01263,Posaconazole,unknown,Null
+DB01264,Darunavir,unknown,Null
+DB01267,Paliperidone,unknown,substrate
+DB01268,Sunitinib,no,Null
+DB01275,Hydralazine,no,inhibitor
+DB01275,Hydralazine,unknown,inhibitor
+DB01285,Corticotropin,no,Null
+DB01319,Fosamprenavir,unknown,Null
+DB01320,Fosphenytoin,unknown,Null
+DB01323,St. John's Wort,unknown,Null
+DB01325,Quinethazone,yes,inhibitor
+DB01333,Cefradine,unknown,inducer
+DB01349,Tasosartan,unknown,substrate
+DB01352,Aprobarbital,unknown,inducer
+DB01357,Mestranol,no,substrate
+DB01369,Quinupristin,unknown,inhibitor
+DB01373,Calcium,unknown,Null
+DB01380,Cortisone acetate,unknown,Null
+DB01381,Ginkgo biloba,unknown,Null
+DB01384,Paramethasone,unknown,Null
+DB01388,Mibefradil,unknown,Null
+DB01392,Yohimbine,unknown,substrate
+DB01393,Bezafibrate,unknown,substrate
+DB01394,Colchicine,unknown,Null
+DB01395,Drospirenone,unknown,substrate
+DB01396,Digitoxin,unknown,substrate
+DB01406,Danazol,unknown,inhibitor
+DB01409,Tiotropium,unknown,substrate
+DB01410,Ciclesonide,no,substrate
+DB01411,Pranlukast,no,substrate
+DB01418,Acenocoumarol,unknown,substrate
+DB01420,Testosterone propionate,no,substrate
+DB01424,Aminophenazone,unknown,substrate
+DB01435,Antipyrine,unknown,substrate
+DB01456,5-androstenedione,no,substrate
+DB01466,Ethylmorphine,unknown,substrate
+DB01483,Barbital,no,inducer
+DB01497,Etorphine,unknown,Null
+DB01497,Etorphine,unknown,agonist
+DB01536,Androstenedione,no,substrate
+DB01544,Flunitrazepam,unknown,substrate
+DB01548,Diprenorphine,unknown,Null
+DB01551,Dihydrocodeine,unknown,substrate
+DB01559,Clotiazepam,unknown,substrate
+DB01565,Dihydromorphine,unknown,agonist
+DB01583,Liotrix,no,substrate
+DB01586,Ursodeoxycholic acid,unknown,inducer
+DB01587,Ketazolam,unknown,Null
+DB01588,Prazepam,unknown,substrate
+DB01589,Quazepam,no,substrate
+DB01590,Everolimus,unknown,substrate
+DB01591,Solifenacin,no,substrate
+DB01593,Zinc,unknown,Null
+DB01593,Zinc,unknown,substrate
+DB01595,Nitrazepam,unknown,substrate
+DB01601,Lopinavir,no,inhibitor
+DB01601,Lopinavir,unknown,Null
+DB01609,Deferasirox,unknown,inducer
+DB01611,Hydroxychloroquine,unknown,substrate
+DB01621,Pipotiazine,unknown,substrate
+DB01624,Zuclopenthixol,no,substrate
+DB01628,Etoricoxib,unknown,Null
+DB01632,5-O-phosphono-alpha-D-ribofuranosyl diphosphate,unknown,Null
+DB01632,5-O-phosphono-alpha-D-ribofuranosyl diphosphate,unknown,substrate
+DB01639,N-Methyl-Pyridoxal-5'-Phosphate,unknown,Null
+DB01643,Thymidine monophosphate,unknown,Null
+DB01645,Genistein,unknown,inducer
+DB01646,N-Acetylmethionine,unknown,Null
+DB01652,4-hydroxybenzoyl-CoA,unknown,Null
+DB01656,Roflumilast,no,substrate
+DB01661,1-(5-phospho-D-ribosyl)-ATP,unknown,Null
+DB01671,p-Hydroxymercuribenzoic acid,unknown,Null
+DB01672,"2,3-Dihydroxy-Benzoic Acid",unknown,Null
+DB01673,Uridine-5'-Diphosphate-N-Acetylmuramoyl-L-Alanine,unknown,Null
+DB01685,Topiroxostat,unknown,inhibitor
+DB01690,Bis(Adenosine)-5'-Triphosphate,unknown,Null
+DB01692,Dithioerythritol,unknown,Null
+DB01694,D-tartaric acid,unknown,Null
+DB01698,Rutin,unknown,inducer
+DB01727,Isocitric Acid,unknown,Null
+DB01748,N-Benzyl-4-Sulfamoyl-Benzamide,unknown,Null
+DB01752,S-adenosyl-L-homocysteine,unknown,Null
+DB01756,4-phospho-L-threonic acid,unknown,Null
+DB01764,Dalfopristin,unknown,inhibitor
+DB01783,Pantothenic acid,unknown,Null
+DB01784,4-Flourobenzenesulfonamide,unknown,Null
+DB01785,Dimethylallyl Diphosphate,unknown,Null
+DB01788,4-Imino-5-Methidyl-2-Methylpyrimidine,unknown,Null
+DB01796,Quinolinic Acid,unknown,Null
+DB01813,Pyridoxyl-Glutamic Acid-5'-Monophosphate,unknown,Null
+DB01819,Phosphoenolpyruvate,unknown,Null
+DB01840,2-Deoxy-D-Glucitol 6-(E)-Vinylhomophosphonate,unknown,Null
+DB01856,Pimelic Acid,unknown,Null
+DB01859,4-CDP-2-C-methyl-D-erythritol 2-phosphate,unknown,Null
+DB01861,Uridine diphosphate glucose,unknown,Null
+DB01873,Epothilone D,no,inhibitor
+DB01879,(S)-2-{Methyl-[2-(Naphthalene-2-Sulfonylamino)-5-(Naphthalene-2-Sulfonyloxy)-Benzoyl]-Amino}-Succinicacid,unknown,Null
+DB01930,"2,4-Dihydroxy-3,3-Dimethyl-Butyrate",unknown,Null
+DB01942,Formic acid,unknown,Null
+DB01964,AL5424,unknown,Null
+DB01972,Guanosine-5'-Monophosphate,unknown,Null
+DB01987,Cocarboxylase,unknown,Null
+DB01992,Coenzyme A,unknown,Null
+DB01993,N-(5'-Phosphopyridoxyl)-D-Alanine,unknown,Null
+DB02007,alpha-D-glucose 6-phosphate,unknown,Null
+DB02011,N-(Phosphonoacetyl)-L-Ornithine,unknown,Null
+DB02024,3-phenylpropionic acid,unknown,Null
+DB02038,"D-[3-hydroxy-2-methyl-5-phosphonooxymethyl-pyridin-4-ylmethyl]-N,O-cycloserylamide",unknown,Null
+DB02053,Ribose-5-phosphate,unknown,Null
+DB02054,Gabaculine,unknown,Null
+DB02059,Adenosine-5-Diphosphoribose,unknown,Null
+DB02068,Delta-Amino Valeric Acid,unknown,Null
+DB02069,N-(2-Flouro-Benzyl)-4-Sulfamoyl-Benzamide,unknown,Null
+DB02076,6-phospho-D-gluconic acid,unknown,Null
+DB02087,"3,5-Difluorobenzenesulfonamide",unknown,Null
+DB02093,5-phospho-D-arabinohydroxamic acid,unknown,Null
+DB02109,Hadacidin,unknown,Null
+DB02109,Hadacidin,unknown,inhibitor
+DB02129,Dihydroorotic Acid,unknown,Null
+DB02130,Vanillic acid,unknown,Null
+DB02135,"1-deoxy-1-{2,6,8-trioxo-7-[4-(phosphonooxy)butyl]-1,2,3,6,7,8-hexahydro-9H-purin-9-yl}-D-arabinitol",unknown,Null
+DB02142,Pyridoxamine-5'-Phosphate,unknown,Null
+DB02159,(R)-Propylene glycol,unknown,Null
+DB02174,D-Glutamine,unknown,Null
+DB02175,Malonic acid,unknown,Null
+DB02181,2'-Deoxyguanosine-5'-Triphosphate,unknown,Null
+DB02184,"D-1,4-dithiothreitol",unknown,Null
+DB02187,Equilin,no,substrate
+DB02190,(S)-oxalosuccinic acid,unknown,Null
+DB02196,Uridine-Diphosphate-N-Acetylgalactosamine,unknown,Null
+DB02214,"6,7-dioxo-5H-8-ribitylaminolumazine",unknown,Null
+DB02220,AL7089A,unknown,Null
+DB02221,"4-(Aminosulfonyl)-N-[(2,4,6-Trifluorophenyl)Methyl]-Benzamide",unknown,Null
+DB02236,Glycinamide Ribonucleotide,unknown,Null
+DB02239,Laevulinic Acid,unknown,Null
+DB02242,Cyclohexanepropanoic acid,unknown,Null
+DB02251,O-Succinylbenzoate,unknown,Null
+DB02254,Trifluoro-thiamin phosphate,unknown,Null
+DB02257,N-Bromoacetyl-Aminoethyl Phosphate,unknown,Null
+DB02260,4-Oxosebacic Acid,unknown,Null
+DB02262,Orotic acid,unknown,Null
+DB02262,Orotic acid,unknown,inhibitor
+DB02267,Argininosuccinate,unknown,Null
+DB02270,Dimethylallyl S-Thiolodiphosphate,unknown,Null
+DB02272,Porphobilinogen,unknown,Null
+DB02290,"3-{2,6,8-trioxo-9-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]-1,2,3,6,8,9-hexahydro-7H-purin-7-Yl}propyl dihydrogen phosphate",unknown,Null
+DB02292,Irosustat,unknown,Null
+DB02301,"5,10-Methylene-6-Hydrofolic Acid",unknown,Null
+DB02314,Uridine-5'-Diphosphate-N-Acetylmuramoyl-L-Alanine-D-Glutamate,unknown,Null
+DB02327,Triethylene glycol,unknown,Null
+DB02338,NADPH,unknown,Null
+DB02343,"3,6,9,12,15-Pentaoxaheptadecane",unknown,Null
+DB02345,Selenocysteine,unknown,Null
+DB02363,2'-Monophosphoadenosine-5'-Diphosphate,unknown,Null
+DB02370,Nz-(1-Carboxyethyl)-Lysine,unknown,Null
+DB02377,Guanine,unknown,inhibitor
+DB02382,Namn,unknown,Null
+DB02421,Uridine-5'-diphosphate-mannose,unknown,Null
+DB02428,Quinaldic Acid,unknown,Null
+DB02429,4-(Aminosulfonyl)-N-[(4-Fluorophenyl)Methyl]-Benzamide,unknown,Null
+DB02431,Cytidine-5'-Triphosphate,unknown,Null
+DB02434,4-(2-Thienyl)Butyric Acid,unknown,Null
+DB02435,Aminomethylcyclohexane,unknown,Null
+DB02445,2-Deoxy-2-Amino Glucitol-6-Phosphate,unknown,Null
+DB02446,Glutamine hydroxamate,unknown,Null
+DB02452,Thymidine 5'-triphosphate,unknown,Null
+DB02479,(R)-N-(3-Indol-1-Yl-2-Methyl-Propyl)-4-Sulfamoyl-Benzamide,unknown,Null
+DB02493,Hydantocidin-5'-phosphate,unknown,Null
+DB02496,1-Deoxy-D-xylulose 5-phosphate,unknown,Null
+DB02508,Isopentyl Pyrophosphate,unknown,Null
+DB02512,"1,6-Fructose Diphosphate (Linear Form)",unknown,Null
+DB02515,sn-glycerol 3-phosphate,unknown,Null
+DB02520,Ditiocarb,unknown,inhibitor
+DB02535,Aminodi(Ethyloxy)Ethylaminocarbonylbenzenesulfonamide,unknown,Null
+DB02540,"10-formyl-5,8,10-trideazafolic acid",unknown,Null
+DB02548,D-glucitol 6-phosphate,unknown,Null
+DB02549,3'-O-Acetylthymidine-5'-diphosphate,unknown,Null
+DB02552,Geranyl Diphosphate,unknown,Null
+DB02562,"Quinonoid 7,8-Tetrahydrobiopterin",unknown,Null
+DB02569,"2',3'-Dehydro-2',3'-Deoxy-Thymidine 5'-Diphosphate",unknown,Null
+DB02580,Pentaglyme,unknown,Null
+DB02592,Carbaphosphonate,unknown,Null
+DB02596,"alpha,beta-Methyleneadenosine 5'-triphosphate",unknown,Null
+DB02602,AL7182,unknown,Null
+DB02607,Adenosine Phosphonoacetic Acid,unknown,Null
+DB02610,"N-(2,3,4,5,6-Pentaflouro-Benzyl)-4-Sulfamoyl-Benzamide",unknown,Null
+DB02628,"1-[3,3-Dimethyl-2-(2-Methylamino-Propionylamino)-Butyryl]-Pyrrolidine-2-Carboxylic Acid(1,2,3,4-Tetrahydro-Naphthalen-1-Yl)-Amide",unknown,Null
+DB02635,N-[O-Phosphono-Pyridoxyl]-Isoleucine,unknown,Null
+DB02657,Glucosamine 6-Phosphate,unknown,Null
+DB02663,2-Amino-4-(Hydroxymethyl-Phosphinyl)Butanoic Acid,unknown,Null
+DB02666,(C8-R)-hydantocidin 5'-phosphate,unknown,Null
+DB02667,Vitamin B 12 factor IIIm,unknown,Null
+DB02679,Cyanamide,unknown,Null
+DB02693,"(4S,5S)-1,2-dithiane-4,5-diol",unknown,Null
+DB02694,Pantoyl Adenylate,unknown,Null
+DB02701,Nicotinamide,unknown,inhibitor
+DB02703,Fusidic acid,unknown,Null
+DB02709,Resveratrol,no,inhibitor
+DB02711,"4-{2,6,8-Trioxo-9-[(2S,3R,4R)-2,3,4,5-Tetrahydroxypentyl]-1,2,3,6,8,9-Hexahydro-7h-Purin-7-Yl}Butyl Dihydrogen Phosphate",unknown,Null
+DB02726,2-Phosphoglycolic Acid,unknown,Null
+DB02740,3-Indolebutyric Acid,unknown,Null
+DB02746,Phthalic Acid,unknown,Null
+DB02758,Indolepropionic acid,unknown,Null
+DB02778,"2,5-Anhydroglucitol-1,6-Biphosphate",unknown,Null
+DB02783,4'-Deoxy-4'-Acetylyamino-Pyridoxal-5'-Phosphate,unknown,Null
+DB02786,2-Anhydro-3-Fluoro-Quinic Acid,unknown,Null
+DB02789,Pregnenolone,no,substrate
+DB02790,Phenyl-uridine-5'-diphosphate,unknown,Null
+DB02794,"(2S)-2-({4-[(2S)-1-(2-Amino-4-oxo-1,4-dihydro-6-quinazolinyl)-3-{[2-({(2R,3R,4S,5R)-3,4-dihydroxy-5-[(phosphonooxy)methyl]tetrahydro-2-furanyl}amino)-2-oxoethyl]amino}-2-hydroxy-2-propanyl]benzoyl}ami no)pentanedioic acid",unknown,Null
+DB02798,Alpha-Methylene Adenosine Monophosphate,unknown,Null
+DB02801,"2,3-Anhydro-quinic acid",unknown,Null
+DB02823,Phosphonoacetic Acid,unknown,Null
+DB02828,5-Fluorolevulinic Acid,unknown,Null
+DB02836,Guanosine 5'-diphosphate 2':3'-cyclic monophosphate,unknown,Null
+DB02843,alpha-D-glucose-1-phosphate,unknown,Null
+DB02848,"{4-[3-(6,7-Diethoxy-Quinazolin-4-Ylamino)-Phenyl]-Thiazol-2-Yl}-Methanol",unknown,Null
+DB02861,"4-(Aminosulfonyl)-N-[(3,4,5-Trifluorophenyl)Methyl]-Benzamide",unknown,Null
+DB02866,Dansylamide,unknown,Null
+DB02872,"Cis-[4,5-Bis-(4-Bromophenyl)-2-(2-Ethoxy-4-Methoxyphenyl)-4,5-Dihydroimidazol-1-Yl]-[4-(2-Hydroxyethyl)Piperazin-1-Yl]Methanone",unknown,Null
+DB02878,3-(2-Aminoethyl)-4-(Aminomethyl)Heptanedioic Acid,unknown,Null
+DB02885,4-Imino-5-Methidyl-2-Trifluoromethylpyrimidine,unknown,Null
+DB02887,Stavudine triphosphate,unknown,Null
+DB02890,6-hydroxyuridine-5'-phosphate,unknown,Null
+DB02894,"Sulfamic Acid 2,3-O-(1-Methylethylidene)-4,5-O-Sulfonyl-Beta-Fructopyranose Ester",unknown,Null
+DB02948,Fosmidomycin,unknown,Null
+DB02954,(Carboxyhydroxyamino)Ethanoic Acid,unknown,Null
+DB02965,Ndelta-(N'-Sulphodiaminophosphinyl)-L-Ornithine,unknown,Null
+DB02981,Vitamin B6 Complexed with 2-Amino-Hexanoic Acid,unknown,Null
+DB02986,"N-(2-Thienylmethyl)-2,5-Thiophenedisulfonamide",unknown,Null
+DB02995,Cyclohexylammonium Ion,unknown,Null
+DB03010,Patupilone,no,inhibitor
+DB03022,"3-[2,6,8-Trioxo-9-[(2R,3S,4R)-2,3,4,5-tetrahydroxypentyl]-3H-purin-7-yl]propyl dihydrogen phosphate",unknown,Null
+DB03026,Phosphoglycolohydroxamic Acid,unknown,Null
+DB03039,"4-(Aminosulfonyl)-N-[(2,5-Difluorophenyl)Methyl]-Benzamide",unknown,Null
+DB03041,UDP-alpha-D-glucuronic acid,unknown,substrate
+DB03042,5-Phosphoarabinonic Acid,unknown,Null
+DB03059,Acetoacetyl-CoA,unknown,Null
+DB03066,D-Lactic acid,unknown,Null
+DB03070,Selenazole-4-carboxyamide-adenine dinucleotide,unknown,Null
+DB03075,(Diphosphono)Aminophosphonic Acid,unknown,Null
+DB03095,Tetramethylammonium,unknown,Null
+DB03097,"PMP-hydroxyisoxazole, pyridoxamine-5-phosphate-hydroxyisoxazole",unknown,Null
+DB03103,Thymidine-5'- Diphosphate,unknown,Null
+DB03107,beta-Alanine,unknown,Null
+DB03108,4-phospho-D-erythronic acid,unknown,Null
+DB03116,5-(1-Carboxy-1-Phosphonooxy-Ethoxyl)-Shikimate-3-Phosphate,unknown,Null
+DB03134,L-2-aminopimelic acid,unknown,Null
+DB03145,4-Methyl-5-Hydroxyethylthiazole Phosphate,unknown,Null
+DB03146,2-deazo-6-thiophosphate guanosine-5'-monophosphate,unknown,Null
+DB03147,Flavin adenine dinucleotide,unknown,Null
+DB03148,Adenosine 5'-methylenediphosphate,unknown,Null
+DB03150,"2',3'-Dideoxythymidine-5'-Monophosphate",unknown,Null
+DB03161,Thymidine-5'-diphospho-beta-D-xylose,unknown,Null
+DB03170,Dephospho Coenzyme A,unknown,Null
+DB03191,3-Oxiran-2ylalanine,unknown,Null
+DB03195,3'-Fluoro-3'-deoxythymidine 5'-monophosphate,unknown,Null
+DB03210,4-Aminohydrocinnamic Acid,unknown,Null
+DB03216,"(1'R,2'S)-9-(2-Hydroxy-3'-Keto-Cyclopenten-1-yl)Adenine",unknown,Null
+DB03221,AL7099A,unknown,Null
+DB03222,dATP,unknown,Null
+DB03227,Nicotinamide Mononucleotide,unknown,Null
+DB03233,3'-deoxy-3'-aminothymidine monophosphate,unknown,Null
+DB03247,Flavin mononucleotide,unknown,Null
+DB03252,D-Lysine,unknown,Null
+DB03258,2'-Deoxycytidine 5'-triphosphate,unknown,Null
+DB03262,"Al-6619, [2h-Thieno[3,2-E]-1,2-Thiazine-6-Sulfonamide,2-(3-Hydroxyphenyl)-3-(4-Morpholinyl)-, 1,1-Dioxide]",unknown,Null
+DB03270,"2,6-Difluorobenzenesulfonamide",unknown,Null
+DB03273,3'-Oxo-Adenosine,unknown,Null
+DB03280,p1-(5'-adenosyl)p5-(5'-thymidyl)pentaphosphate,unknown,Null
+DB03292,3-Phosphono-D-alanine,unknown,Null
+DB03294,"1-Methyl-3-Oxo-1,3-Dihydro-Benzo[C]Isothiazole-5-Sulfonic Acid Amide",unknown,Null
+DB03299,N-Succinyl Phenylglycine,unknown,Null
+DB03327,{1-[(3-Hydroxy-Methyl-5-Phosphonooxy-Methyl-Pyridin-4-Ylmethyl)-Amino]-Ethyl}-Phosphonic Acid,unknown,Null
+DB03333,(4-sulfamoyl-phenyl)-thiocarbamic acid O-(2-thiophen-3-yl-ethyl) ester,unknown,Null
+DB03350,Cobalt hexammine ion,unknown,Null
+DB03361,"2-{(9as)-9a-[(1s)-1-Hydroxyethyl]-2,7-Dimethyl-9a,10-Dihydro-5h-Pyrimido[4,5-D][1,3]Thiazolo[3,2-a]Pyrimidin-8-Yl}Ethyl Trihydrogen Diphosphate",unknown,Null
+DB03366,Imidazole,unknown,Null
+DB03382,S-oxy-L-cysteine,unknown,Null
+DB03385,4-Methylimidazole,unknown,Null
+DB03397,Uridine-Diphosphate-N-Acetylglucosamine,unknown,Null
+DB03400,3-(P-Tolyl)Propionic Acid,unknown,Null
+DB03403,Cytidine-5'-Monophosphate,unknown,Null
+DB03416,Thiamine(1+) monophosphate,unknown,Null
+DB03435,Uridine-5'-Diphosphate,unknown,Null
+DB03459,Sparfosic acid,unknown,Null
+DB03461,Nicotinamide adenine dinucleotide phosphate,unknown,Null
+DB03488,Uridine-5'-diphosphate-2-deoxy-2-fluoro-alpha-D-galactose,unknown,Null
+DB03491,2'-Deoxyguanosine-5'-Diphosphate,unknown,Null
+DB03498,Mercaptomethyl Phosphonate,unknown,Null
+DB03501,Galactose-uridine-5'-diphosphate,unknown,Null
+DB03502,(4s)-4-{[(2s)-2-Amino-3-Oxopropyl]Sulfanyl}-L-Homoserinate,unknown,Null
+DB03510,6-O-Phosphoryl Inosine Monophosphate,unknown,Null
+DB03515,Equilenin,no,substrate
+DB03522,Aspartic Acid-4-Carboxymethyl Ester,unknown,Null
+DB03526,AL5927,unknown,Null
+DB03543,1-(O-Carboxy-Phenylamino)-1-Deoxy-D-Ribulose-5-Phosphate,unknown,Null
+DB03553,Glutaric Acid,unknown,Null
+DB03566,Spermidine,unknown,Null
+DB03568,Butyric Acid,unknown,Null
+DB03570,Tris-Hydroxymethyl-Methyl-Ammonium,unknown,Null
+DB03581,Glucose-6-Phosphate,unknown,Null
+DB03590,"2,6-Diaminopimelic Acid",unknown,Null
+DB03594,"1,2,4-Triazole",unknown,Null
+DB03596,N-[2-(1h-Indol-5-Yl)-Butyl]-4-Sulfamoyl-Benzamide,unknown,Null
+DB03598,"Al-6629, [2h-Thieno[3,2-E]-1,2-Thiazine-6-Sulfonamide,2-(3-Methoxyphenyl)-3-(4-Morpholinyl)-, 1,1-Dioxide]",unknown,Null
+DB03611,L-2-amino-4-methoxy-cis-but-3-enoic acid,unknown,Null
+DB03613,4-hydroxyphenacyl coenzyme A,unknown,Null
+DB03614,Mecobalamin,yes,cofactor
+DB03629,Pyridoxal-5'-Phosphate-N-Oxide,unknown,Null
+DB03649,"[{(5-Chloro-2-Pyridinyl)Amino} Methylene]-1,1-Bisphosphonate",unknown,Null
+DB03661,L-cysteic acid,unknown,Null
+DB03662,Vitamin B6 Complexed with 2-Amino-Pentanoic Acid,unknown,Null
+DB03664,P1-(adenosine-5'-P5-(uridine-5')pentaphosphate,unknown,Null
+DB03666,Zidovudine monophosphate,unknown,Null
+DB03668,6-oxouridine 5'-phosphate,unknown,Null
+DB03673,beta-2-Thienyl-L-alanine,unknown,Null
+DB03685,Uridine monophosphate,unknown,Null
+DB03687,4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol,unknown,Null
+DB03697,4-Sulfonamide-[1-(4-Aminobutane)]Benzamide,unknown,Null
+DB03699,Succinyl-Coenzyme A,unknown,Null
+DB03701,Vanoxerine,unknown,substrate
+DB03709,Bicine,unknown,Null
+DB03723,2'-Deoxy-thymidine-beta-L-rhamnose,unknown,Null
+DB03727,Coproporphyrin I,unknown,Null
+DB03738,Pantothenoylaminoethenethiol,unknown,Null
+DB03739,3-Hydroxyimino Quinic Acid,unknown,Null
+DB03745,Arabinose-5-phosphate,unknown,Null
+DB03746,"3-Amino-4,5-Dihydroxy-Cyclohex-1-Enecarboxylate",unknown,Null
+DB03750,Isovaleric Acid,unknown,Null
+DB03751,2'deoxy-Thymidine-5'-Diphospho-Alpha-D-Glucose,unknown,Null
+DB03755,"Adenosine-5'-[Beta, Gamma-Methylene]Tetraphosphate",unknown,Null
+DB03766,Propanoic acid,unknown,Null
+DB03769,D-Eritadenine,unknown,Null
+DB03783,Phenacetin,unknown,substrate
+DB03795,2-Dehydropantoate,unknown,Null
+DB03801,Lysine Nz-Carboxylic Acid,unknown,Null
+DB03811,Histidinol,unknown,Null
+DB03812,"3-{2,6,8-trioxo-9-[(2S,3R,4R)-2,3,4,5-tetrahydroxypentyl]-1,2,3,6,8,9-hexahydro-7H-purin-7-Yl}propyl dihydrogen phosphate",unknown,Null
+DB03814,2-(N-morpholino)ethanesulfonic acid,unknown,Null
+DB03844,"N-(2,6-Diflouro-Benzyl)-4-Sulfamoyl-Benzamide",unknown,Null
+DB03845,P1-(5'-Adenosyl)P5-(5'-(3'azido-3'-Deoxythymidyl))Pentaphosphate,unknown,Null
+DB03846,2'-deoxy-5-(hydroxymethyl)uridine 5'-(dihydrogen phosphate),unknown,Null
+DB03854,Cadaverine,unknown,Null
+DB03868,3-Dehydroquinic Acid,unknown,Null
+DB03877,AL-4623,unknown,Null
+DB03904,Urea,unknown,Null
+DB03905,Succinamide-CoA,unknown,Null
+DB03909,"Adenosine-5'-[Beta, Gamma-Methylene]Triphosphate",unknown,Null
+DB03912,D-pantetheine 4'-phosphate,unknown,Null
+DB03937,D-erythrose 4-phosphate,unknown,Null
+DB03939,"(4S)-4-hydroxy-3,4-dihydro-2(1H)-pyrimidinone",unknown,Null
+DB03942,Carboxylic PRPP,unknown,Null
+DB03948,"6-Chloropurine Riboside, 5'-Monophosphate",unknown,Null
+DB03950,(S)-N-(3-Indol-1-Yl-2-Methyl-Propyl)-4-Sulfamoyl-Benzamide,unknown,Null
+DB03961,"2c-Methyl-D-Erythritol 2,4-Cyclodiphosphate",unknown,Null
+DB03964,4-Hydroxy-Aconitate Ion,unknown,Null
+DB03973,"3-[2,6,8-Trioxo-9-[(2R,3R,4R)-2,3,4,5-tetrahydroxypentyl]-3H-purin-7-yl]propyl dihydrogen phosphate",unknown,Null
+DB03975,Mercuribenzoic Acid,unknown,Null
+DB03993,Isocaproic acid,unknown,Null
+DB03997,L-histidinol phosphate,unknown,Null
+DB04002,4-Sulfonamide-[4-(Thiomethylaminobutane)]Benzamide,unknown,Null
+DB04031,Serine vanadate,unknown,Null
+DB04051,5-phenylpentanoic acid,unknown,Null
+DB04063,alpha-Methylleucine,unknown,Null
+DB04067,4-hydroxybenzyl coenzyme A,unknown,Null
+DB04068,"2',3'-dideoxy-3'-fluoro-urididine-5'-diphosphate",unknown,Null
+DB04070,6-Deoxyerythronolide B,no,inhibitor
+DB04072,Alpha-Methylisocitric Acid,unknown,Null
+DB04074,alpha-Ketoisovalerate,unknown,Null
+DB04075,N-Acetyl-L-Glutamate,unknown,Null
+DB04081,"(4s-Trans)-4-(Methylamino)-5,6-Dihydro-6-Methyl-4h-Thieno(2,3-B)Thiopyran-2-Sulfonamide-7,7-Dioxide",unknown,Null
+DB04083,N(6)-(pyridoxal phosphate)-L-lysine,unknown,Null
+DB04089,AL5300,unknown,Null
+DB04097,Uridine-5'-diphosphate-4-deoxy-4-fluoro-alpha-D-galactose,unknown,Null
+DB04099,Deamido-Nad+,unknown,Null
+DB04106,Fotemustine,unknown,Null
+DB04127,beta-D-arabinofuranose 5-phosphate,unknown,Null
+DB04128,"5-Nitroso-6-ribityl-amino-2,4(1H,3H)-pyrimidinedione",unknown,Null
+DB04135,"(4S)-5-Fluoro-4-hydroxy-3,4-dihydro-2(1H)-pyrimidinone",unknown,Null
+DB04137,Guanosine-5'-Triphosphate,unknown,Null
+DB04144,"Cis-[4,5-Bis-(4-Chlorophenyl)-2-(2-Isopropoxy-4-Methoxyphenyl)-4,5-Dihyd Roimidazol-1-Yl]-Piperazin-1-Yl-Methanone",unknown,Null
+DB04160,Pyrophosphoric acid,unknown,modulator
+DB04162,"5-Nitro-6-ribityl-amino-2,4(1H,3H)-pyrimidinedione",unknown,Null
+DB04167,Aceglutamide,unknown,Null
+DB04174,3'-1-carboxy-1-phosphonooxy-ethoxy-uridine-diphosphate-N-acetylglucosamine,unknown,Null
+DB04175,Mdl-29951,unknown,Null
+DB04180,"4-(Aminosulfonyl)-N-[(2,4-Difluorophenyl)Methyl]-Benzamide",unknown,Null
+DB04185,Norvaline,unknown,Null
+DB04203,3-Mercuri-4-Aminobenzenesulfonamide,unknown,Null
+DB04208,"3-(3,4-dimethoxyphenyl)propanoic acid",unknown,Null
+DB04209,Dequalinium,yes,Null
+DB04216,Quercetin,no,inhibitor
+DB04216,Quercetin,unknown,Null
+DB04242,4-hydroxybenzoic acid,unknown,Null
+DB04252,N-Carbamoylaspartic acid,unknown,Null
+DB04262,3-(7-hydroxy-8-ribityllumazine-6-yl) propionic acid,unknown,Null
+DB04264,"(10R)-10-formyl-5,8,10-trideazafolic acid",unknown,Null
+DB04272,Citric acid,unknown,Null
+DB04272,Citric acid,yes,Null
+DB04279,3-Isopropylmalic Acid,unknown,Null
+DB04294,5-Phosphoribosyl-1-(Beta-Methylene) Pyrophosphate,unknown,Null
+DB04296,5-Oxo-L-Norleucine,unknown,Null
+DB04299,Maleic acid,unknown,Null
+DB04315,Guanosine-5'-Diphosphate,unknown,Null
+DB04326,Dihydroxyacetone phosphate,unknown,Null
+DB04328,Shikimate-3-Phosphate,unknown,Null
+DB04339,Carbocisteine,unknown,substrate
+DB04345,Lumichrome,unknown,Null
+DB04347,3-Dehydroshikimate,unknown,Null
+DB04349,"(S)-propane-1,2-diol",unknown,Null
+DB04351,Aconitate Ion,unknown,Null
+DB04366,3'-Deoxy 3'-Amino Adenosine-5'-Diphosphate,unknown,Null
+DB04371,AL6528,unknown,Null
+DB04394,3-Nitro-4-(2-Oxo-Pyrrolidin-1-Yl)-Benzenesulfonamide,unknown,Null
+DB04395,Phosphoaminophosphonic Acid-Adenylate Ester,unknown,Null
+DB04400,"L-erythro-7,8-dihydrobiopterin",unknown,Null
+DB04418,Adenylosuccinic acid,unknown,Null
+DB04419,D-norleucine,unknown,Null
+DB04444,Tetrafluoroaluminate Ion,unknown,Null
+DB04447,"1,4-Dithiothreitol",unknown,Null
+DB04457,2'-Deoxyguanosine-5'-Monophosphate,unknown,Null
+DB04460,(C8-S)-Hydantocidin 5'-phosphate,unknown,Null
+DB04461,Coproporphyrinogen III,unknown,Null
+DB04467,N-(5'-phosphopyridoxyl)-L-alanine,unknown,Null
+DB04474,8-anilinonaphthalene-1-sulfonic acid,unknown,Null
+DB04485,Thymidine,unknown,Null
+DB04490,3-(Mercaptomethylene)Pyridine,unknown,Null
+DB04493,Fructose-6-phosphate,unknown,Null
+DB04496,4-Phospho-D-erythronohydroxamic acid,unknown,Null
+DB04498,Aspartate Semialdehyde,unknown,Null
+DB04511,N-Succinyl Methionine,unknown,Null
+DB04516,2-Deoxy-Glucitol-6-Phosphate,unknown,Null
+DB04517,Dipyrromethane Cofactor,unknown,Null
+DB04522,Dexfosfoserine,unknown,Null
+DB04530,"S,S-(2-Hydroxyethyl)Thiocysteine",unknown,Null
+DB04539,Glyphosate,unknown,Null
+DB04539,Glyphosate,unknown,inhibitor
+DB04542,Zidovudine diphosphate,unknown,Null
+DB04549,"4-(Aminosulfonyl)-N-[(2,3,4-Trifluorophenyl)Methyl]-Benzamide",unknown,Null
+DB04554,8-Bromoadenosine-5'-Diphosphate,unknown,Null
+DB04555,Cytidine-5'-Diphosphate,unknown,Null
+DB04560,"4,7-Dioxosebacic Acid",unknown,Null
+DB04561,"4-acetamido-2,4-didexoy-D-glycero-beta-D-galacto-octopyranosylphosphonic acid",unknown,Null
+DB04562,Tricarballylic acid,unknown,Null
+DB04566,Inosinic Acid,unknown,Null
+DB04572,Thiotepa,unknown,substrate
+DB04574,Estrone sulfate,unknown,substrate
+DB04600,"4-[(3-BROMO-4-O-SULFAMOYLBENZYL)(4-CYANOPHENYL)AMINO]-4H-[1,2,4]-TRIAZOLE",unknown,Null
+DB04601,"4-[(4-O-SULFAMOYLBENZYL)(4-CYANOPHENYL)AMINO]-4H-[1,2,4]-TRIAZOLE",unknown,Null
+DB04612,"N-METHYLALANYL-3-METHYLVALYL-4-PHENOXY-N-(1,2,3,4-TETRAHYDRONAPHTHALEN-1-YL)PROLINAMIDE",unknown,Null
+DB04630,Aldosterone,no,substrate
+DB04652,Corticosterone,no,substrate
+DB04656,"1,3,4-TRIHYDROXY-5-(3-PHENOXYPROPYL)-CYCLOHEXANE-1-CARBOXYLIC A CID",unknown,Null
+DB04698,"N-(1,4-dihydro-5H-tetrazol-5-ylidene)-9-oxo-9H-xanthene-2-sulfonamide",unknown,Null
+DB04714,ISOPENTENYL PYROPHOSPHATE,unknown,Null
+DB04733,"1,6-DI-O-PHOSPHONO-D-MANNITOL",unknown,Null
+DB04743,Nimesulide,no,substrate
+DB04762,N-PYRIDOXYL-D-GLUTAMIC ACID-5'-MONOPHOSPHATE,unknown,Null
+DB04763,"1-N-(4-SULFAMOYLPHENYL-ETHYL)-2,4,6-TRIMETHYLPYRIDINIUM",unknown,Null
+DB04765,N-PYRIDOXYL-2-METHYL-L-GLUTAMIC ACID-5'-MONOPHOSPHATE,unknown,Null
+DB04781,5-hydroxyvaleric acid,unknown,Null
+DB04794,Bifonazole,unknown,inhibitor
+DB04817,Metamizole,unknown,inducer
+DB04825,Prenylamine,no,substrate
+DB04828,Zomepirac,unknown,substrate
+DB04829,Lysergic acid diethylamide,no,substrate
+DB04832,Zimelidine,no,inhibitor
+DB04833,Methaqualone,unknown,substrate
+DB04835,Maraviroc,unknown,substrate
+DB04838,Cyclandelate,no,substrate
+DB04839,Cyproterone acetate,no,Null
+DB04841,Flunarizine,no,substrate
+DB04842,Fluspirilene,no,substrate
+DB04845,Ixabepilone,unknown,substrate
+DB04847,Roxadustat,yes,inhibitor
+DB04855,Dronedarone,unknown,Null
+DB04856,Dexloxiglumide,unknown,substrate
+DB04861,Nebivolol,unknown,substrate
+DB04862,Merimepodib,unknown,Null
+DB04868,Nilotinib,unknown,Null
+DB04871,Lorcaserin,no,substrate
+DB04884,Dapoxetine,no,Null
+DB04886,Calanolide A,unknown,substrate
+DB04894,Vapreotide,no,inhibitor
+DB04896,Milnacipran,no,Null
+DB04905,Tesmilifene,unknown,Null
+DB04908,Flibanserin,no,substrate
+DB04911,Oritavancin,unknown,Null
+DB04920,Clevidipine,unknown,Null
+DB04934,Rifalazil,unknown,substrate
+DB04938,Ospemifene,unknown,substrate
+DB04946,Iloperidone,unknown,substrate
+DB04951,Pirfenidone,unknown,inhibitor
+DB04957,Azimilide,unknown,substrate
+DB04959,Verpasep caltespen,unknown,Null
+DB04975,Banoxantrone,unknown,substrate
+DB04977,Plitidepsin,unknown,substrate
+DB05003,Imexon,unknown,Null
+DB05015,Belinostat,unknown,substrate
+DB05039,Indacaterol,unknown,substrate
+DB05053,MB-07803,unknown,Null
+DB05087,Ganaxolone,no,substrate
+DB05109,Trabectedin,unknown,substrate
+DB05154,Pretomanid,unknown,substrate
+DB05212,HE3286,no,substrate
+DB05239,Cobimetinib,no,Null
+DB05260,Gallium nitrate,yes,inhibitor
+DB05271,Rotigotine,unknown,substrate
+DB05294,Vandetanib,unknown,substrate
+DB05304,Girentuximab,unknown,Null
+DB05316,Pimavanserin,unknown,substrate
+DB05351,Dexlansoprazole,unknown,substrate
+DB05420,Gallium maltolate,unknown,Null
+DB05428,Motexafin gadolinium,unknown,Null
+DB05448,PX-12,unknown,Null
+DB05467,Palovarotene,no,substrate
+DB05478,Pradefovir mesylate,unknown,Null
+DB05482,7-ethyl-10-hydroxycamptothecin,unknown,Null
+DB05483,Picolinic acid,unknown,Null
+DB05518,Managlinat dialanetil,unknown,Null
+DB05521,Telaprevir,unknown,Null
+DB05540,Alanosine,unknown,Null
+DB05541,Brivaracetam,no,substrate
+DB05667,Levoketoconazole,no,Null
+DB05676,Apremilast,no,substrate
+DB05773,Trastuzumab emtansine,unknown,substrate
+DB05801,GTI 2040,unknown,Null
+DB05812,Abiraterone,unknown,Null
+DB05814,GPI-1485,no,inhibitor
+DB05885,Seletracetam,no,substrate
+DB05903,KOS-1584,no,inhibitor
+DB05928,Dovitinib,unknown,inhibitor
+DB05943,Resatorvid,unknown,Null
+DB06016,Cariprazine,no,Null
+DB06045,Trofinetide,unknown,inhibitor
+DB06077,Lumateperone,no,substrate
+DB06083,Tapinarof,no,substrate
+DB06103,VX-148,unknown,Null
+DB06119,Cenobamate,unknown,Null
+DB06137,Tirbanibulin,no,Null
+DB06144,Sertindole,unknown,substrate
+DB06148,Mianserin,unknown,substrate
+DB06152,Nylidrin,no,substrate
+DB06155,Rimonabant,unknown,substrate
+DB06174,Noscapine,unknown,inhibitor
+DB06176,Romidepsin,unknown,substrate
+DB06184,AEG35156,unknown,Null
+DB06201,Rufinamide,unknown,inducer
+DB06203,Alogliptin,unknown,substrate
+DB06207,Silodosin,unknown,substrate
+DB06209,Prasugrel,no,substrate
+DB06212,Tolvaptan,unknown,substrate
+DB06216,Asenapine,unknown,substrate
+DB06218,Lacosamide,no,substrate
+DB06228,Rivaroxaban,unknown,substrate
+DB06230,Nalmefene,no,substrate
+DB06233,Ridaforolimus,no,inhibitor
+DB06234,Maribavir,no,substrate
+DB06237,Avanafil,unknown,substrate
+DB06255,Incadronic acid,unknown,inhibitor
+DB06262,Droxidopa,no,inhibitor
+DB06267,Udenafil,unknown,substrate
+DB06268,Sitaxentan,unknown,inhibitor
+DB06273,Tocilizumab,no,inducer
+DB06282,Levocetirizine,unknown,substrate
+DB06287,Temsirolimus,unknown,substrate
+DB06290,Simeprevir,unknown,Null
+DB06292,Dapagliflozin,no,substrate
+DB06318,AVE9633,no,inhibitor
+DB06335,Saxagliptin,unknown,substrate
+DB06342,Coltuximab ravtansine,no,inhibitor
+DB06370,Indisulam,unknown,inhibitor
+DB06374,Elacestrant,unknown,substrate
+DB06403,Ambrisentan,unknown,substrate
+DB06408,Taribavirin,unknown,Null
+DB06412,Oxymetholone,unknown,inhibitor
+DB06413,Armodafinil,unknown,inducer
+DB06414,Etravirine,unknown,Null
+DB06419,Cethromycin,no,Null
+DB06433,Tezacitabine,unknown,Null
+DB06442,Avasimibe,unknown,inducer
+DB06446,Dotarizine,no,substrate
+DB06448,Lonafarnib,no,Null
+DB06448,Lonafarnib,unknown,Null
+DB06458,Remacemide,no,inhibitor
+DB06469,Lestaurtinib,no,inhibitor
+DB06470,Clomethiazole,unknown,substrate
+DB06480,Prucalopride,no,substrate
+DB06548,Minodronic acid,yes,inhibitor
+DB06560,Pascolizumab,unknown,Null
+DB06587,Mitemcinal,no,inhibitor
+DB06589,Pazopanib,unknown,Null
+DB06595,Midostaurin,unknown,Null
+DB06603,Panobinostat,unknown,substrate
+DB06605,Apixaban,no,substrate
+DB06616,Bosutinib,no,Null
+DB06626,Axitinib,no,substrate
+DB06634,Casopitant,unknown,Null
+DB06636,Isavuconazonium,unknown,Null
+DB06652,Vicriviroc,unknown,substrate
+DB06654,Safinamide,unknown,substrate
+DB06663,Pasireotide,no,inhibitor
+DB06670,Odanacatib,no,substrate
+DB06684,Vilazodone,unknown,substrate
+DB06685,Laquinimod,unknown,substrate
+DB06697,Artemether,unknown,Null
+DB06700,Desvenlafaxine,unknown,Null
+DB06702,Fesoterodine,unknown,substrate
+DB06708,Lumefantrine,unknown,substrate
+DB06710,Methyltestosterone,unknown,substrate
+DB06712,Nilvadipine,unknown,Null
+DB06713,Norelgestromin,no,substrate
+DB06717,Fosaprepitant,unknown,Null
+DB06730,Gestodene,no,Null
+DB06731,Seproxetine,unknown,inhibitor
+DB06733,Bafilomycin A1,yes,inhibitor
+DB06734,Bafilomycin B1,yes,inhibitor
+DB06738,Ketobemidone,unknown,substrate
+DB06739,Seratrodast,unknown,Null
+DB06742,Ambroxol,unknown,substrate
+DB06757,Manganese,unknown,inhibitor
+DB06762,Pinacidil,unknown,substrate
+DB06772,Cabazitaxel,unknown,substrate
+DB06774,Capsaicin,unknown,inducer
+DB06774,Capsaicin,unknown,inhibitor
+DB06777,Chenodeoxycholic acid,unknown,substrate
+DB06778,Cupric sulfate,unknown,inducer
+DB06780,Desoxycorticosterone acetate,no,substrate
+DB06781,Difluprednate,no,substrate
+DB06786,Halcinonide,no,substrate
+DB06789,Hydroxyprogesterone caproate,unknown,substrate
+DB06791,Lanreotide,no,inhibitor
+DB06795,Mafenide,unknown,antagonist
+DB06813,Pralatrexate,yes,substrate
+DB06819,Phenylbutyric acid,unknown,Null
+DB06851,N-(pyridin-3-ylmethyl)aniline,unknown,Null
+DB06864,"2-(3-CARBOXYPROPIONYL)-6-HYDROXY-CYCLOHEXA-2,4-DIENE CARBOXYLIC ACID",unknown,Null
+DB06891,"5-{[(4-AMINO-3-CHLORO-5-FLUOROPHENYL)SULFONYL]AMINO}-1,3,4-THIADIAZOLE-2-SULFONAMIDE",unknown,Null
+DB06954,"2-(cycloheptylmethyl)-1,1-dioxido-1-benzothiophen-6-yl sulfamate",unknown,Null
+DB06970,"2-CHLORO-N-(3-CYANO-5,6-DIHYDRO-4H-CYCLOPENTA[B]THIOPHEN-2-YL)-5-DIETHYLSULFAMOYL-BENZAMIDE",unknown,Null
+DB07048,"N-[(2R)-5-(aminosulfonyl)-2,3-dihydro-1H-inden-2-yl]-2-propylpentanamide",unknown,Null
+DB07050,"5-[(phenylsulfonyl)amino]-1,3,4-thiadiazole-2-sulfonamide",unknown,Null
+DB07052,5'-S-ethyl-5'-thioadenosine,unknown,Null
+DB07115,"N-(4-chlorobenzyl)-N-methylbenzene-1,4-disulfonamide",unknown,Null
+DB07270,"N-[7-(3-AMINOPHENYL)-5-METHOXY-1,3-BENZOXAZOL-2-YL]-2,5-DICHLOROBENZENESULFONAMIDE",unknown,Null
+DB07291,5-amino-1-(4-chlorophenyl)-1H-pyrazole-4-carbonitrile,unknown,Null
+DB07296,(5Z)-3-(4-CHLOROPHENYL)-4-HYDROXY-5-(1-NAPHTHYLMETHYLENE)FURAN-2(5H)-ONE,unknown,Null
+DB07312,"2,5-DICHLORO-N-(5-CHLORO-1,3-BENZOXAZOL-2-YL)BENZENESULFONAMIDE",unknown,Null
+DB07321,"2,5-DICHLORO-N-[5-METHOXY-7-(6-METHOXYPYRIDIN-3-YL)-1,3-BENZOXAZOL-2-YL]BENZENESULFONAMIDE",unknown,Null
+DB07338,Acifluorfen,unknown,Null
+DB07344,"3,6,9,12,15-PENTAOXAHEPTADECAN-1-OL",unknown,Null
+DB07348,Brefeldin A,no,inhibitor
+DB07363,"THIOPHENE-2,5-DISULFONIC ACID 2-AMIDE-5-(4-METHYL-BENZYLAMIDE)",unknown,Null
+DB07384,1-ACETYL-2-CARBOXYPIPERIDINE,unknown,Null
+DB07394,AUROVERTIN B,unknown,Null
+DB07467,(S)-Indapamide,unknown,Null
+DB07476,N-[4-(AMINOSULFONYL)PHENYL]-2-MERCAPTOBENZAMIDE,unknown,Null
+DB07544,N'-(5-CHLOROBENZOFURAN-2-CARBONYL)-2-(TRIFLUOROMETHYL)BENZENESULFONOHYDRAZIDE,unknown,Null
+DB07581,5-AMINO-6-CYCLOHEXYL-4-HYDROXY-2-ISOPROPYL-HEXANOIC ACID,unknown,Null
+DB07596,"(17beta)-17-(cyanomethyl)-2-methoxyestra-1(10),2,4-trien-3-yl sulfamate",unknown,Null
+DB07615,Tranilast,no,substrate
+DB07632,"5-(2-chlorophenyl)-1,3,4-thiadiazole-2-sulfonamide",unknown,Null
+DB07634,"(2,6-Dimethylphenoxy)acetic acid",unknown,Null
+DB07710,PHENYLALANYLAMINODI(ETHYLOXY)ETHYL BENZENESULFONAMIDEAMINOCARBONYLBENZENESULFONAMIDE,unknown,Null
+DB07742,"N-(2,3-DIFLUORO-BENZYL)-4-SULFAMOYL-BENZAMIDE",unknown,Null
+DB07780,Farnesyl diphosphate,unknown,Null
+DB07782,4-AMINO-2-TRIFLUOROMETHYL-5-HYDROXYMETHYLPYRIMIDINE PYROPHOSPHATE,unknown,Null
+DB07805,"3-CHLORO-2,2-DIMETHYL-N-[4-(TRIFLUOROMETHYL)PHENYL]PROPANAMIDE",unknown,Null
+DB07841,Geranylgeranyl diphosphate,unknown,Null
+DB07937,"2-butoxy-9-(2,6-difluorobenzyl)-N-(2-morpholin-4-ylethyl)-9H-purin-6-amine",unknown,Null
+DB08016,"4-(6-CHLORO-2,4-DIOXO-1,2,3,4-TETRAHYDROPYRIMIDIN-5-YL) BUTYL PHOSPHATE",unknown,Null
+DB08046,2-chloro-5-[(1S)-1-hydroxy-3-oxo-2H-isoindol-1-yl]benzenesulfonamide,unknown,Null
+DB08083,"2-(1,3-thiazol-4-yl)-1H-benzimidazole-5-sulfonamide",unknown,Null
+DB08105,N-[(6-butoxynaphthalen-2-yl)sulfonyl]-L-glutamic acid,unknown,Null
+DB08106,N-[(6-butoxynaphthalen-2-yl)sulfonyl]-D-glutamic acid,unknown,Null
+DB08107,N-{[6-(PENTYLOXY)NAPHTHALEN-2-YL]SULFONYL}-D-GLUTAMIC ACID,unknown,Null
+DB08108,N-({6-[(4-CYANOBENZYL)OXY]NAPHTHALEN-2-YL}SULFONYL)-D-GLUTAMIC ACID,unknown,Null
+DB08112,N-({6-[(4-CYANO-2-FLUOROBENZYL)OXY]NAPHTHALEN-2-YL}SULFONYL)-D-GLUTAMIC ACID,unknown,Null
+DB08155,N-{2-[4-(AMINOSULFONYL)PHENYL]ETHYL}ACETAMIDE,unknown,Null
+DB08156,3-[4-(AMINOSULFONYL)PHENYL]PROPANOIC ACID,unknown,Null
+DB08157,ETHYL 3-[4-(AMINOSULFONYL)PHENYL]PROPANOATE,unknown,Null
+DB08165,indane-5-sulfonamide,unknown,Null
+DB08202,4-({[(4-METHYLPIPERAZIN-1-YL)AMINO]CARBONOTHIOYL}AMINO)BENZENESULFONAMIDE,unknown,Null
+DB08231,Myristic acid,unknown,Null
+DB08240,N-(4-CHLOROPHENYL)-3-(PHOSPHONOOXY)NAPHTHALENE-2-CARBOXAMIDE,unknown,Null
+DB08272,(4S)-4-(2-NAPHTHYLMETHYL)-D-GLUTAMIC ACID,unknown,Null
+DB08274,"6,7,8,9-TETRAHYDRO-4-HYDROXY-3-(1-PHENYLPROPYL)CYCLOHEPTA[B]PYRAN-2-ONE",unknown,Null
+DB08286,1-Naphthoxyacetic acid,unknown,Null
+DB08301,N-({[4-(AMINOSULFONYL)PHENYL]AMINO}CARBONYL)-4-METHYLBENZENESULFONAMIDE,unknown,Null
+DB08326,"2-(6-HYDROXY-1,3-BENZOTHIAZOL-2-YL)-1,3-THIAZOL-4(5H)-ONE",unknown,Null
+DB08329,Sulthiame,unknown,Null
+DB08344,4-chloro-N-(3-methoxypropyl)-N-[(3S)-1-(2-phenylethyl)piperidin-3-yl]benzamide,unknown,Null
+DB08399,Piceatannol,unknown,Null
+DB08413,METHYL-PHOSPHONIC ACID MONO-(4-NITRO-PHENYL) ESTER,unknown,Null
+DB08416,"(9BETA,13ALPHA,14BETA,17ALPHA)-2-METHOXYESTRA-1,3,5(10)-TRIENE-3,17-DIYL DISULFAMATE",unknown,Null
+DB08418,"(4aS,4bR,10bS,12aS)-12a-methyl-1,3-dioxo-2-(pyridin-3-ylmethyl)-1,2,3,4,4a,4b,5,6,10b,11,12,12a-dodecahydronaphtho[2,1-f]isoquinolin-8-yl sulfamate",unknown,Null
+DB08421,PIPERIDINE-2-CARBOXYLIC ACID TERT-BUTYLAMIDE,unknown,Null
+DB08439,Parecoxib,unknown,substrate
+DB08474,3-(CARBOXYAMIDE(2-CARBOXYAMIDE-2-TERTBUTYLETHYL))PENTAN,unknown,Null
+DB08484,4-AMINO-N-[(2-SULFANYLETHYL)CARBAMOYL]BENZENESULFONAMIDE,unknown,Null
+DB08485,"(1S,4S,5S)-1,4,5-TRIHYDROXY-3-[3-(PHENYLTHIO)PHENYL]CYCLOHEX-2-ENE-1-CARBOXYLIC ACID",unknown,Null
+DB08496,(R)-warfarin,unknown,substrate
+DB08502,Capravirine,unknown,substrate
+DB08629,"N1-(2-AMINO-4-METHYLPENTYL)OCTAHYDRO-PYRROLO[1,2-A] PYRIMIDINE",unknown,Null
+DB08645,"6-CHLORO-3-(DICHLOROMETHYL)-3,4-DIHYDRO-2H-1,2,4-BENZOTHIADIAZINE-7-SULFONAMIDE 1,1-DIOXIDE",unknown,Null
+DB08659,2-(hydrazinocarbonyl)-3-phenyl-1H-indole-5-sulfonamide,unknown,Null
+DB08663,4-HYDROXY-7-METHOXY-3-(1-PHENYL-PROPYL)-CHROMEN-2-ONE,unknown,Null
+DB08664,({3-[1-(4-Hydroxy-2-oxo-2H-chromen-3-yl)-propyl]-phenylcarbamoyl}-methyl)-carbamic acid tert-butyl ester,unknown,Null
+DB08686,"5,6,7,8,9,10-HEXAHYDRO-4-HYDROXY-3-(1-PHENYLPROPYL)CYCLOOCTA[B]PYRAN-2-ONE",unknown,Null
+DB08698,"1-[(3S)-5-PHENYL-3-THIOPHEN-2-YL-3H-1,4-BENZODIAZEPIN-2-YL]AZETIDIN-3-OL",unknown,Null
+DB08765,"6-HYDROXY-1,3-BENZOTHIAZOLE-2-SULFONAMIDE",unknown,Null
+DB08782,4-(2-AMINOETHYL)BENZENESULFONAMIDE,unknown,Null
+DB08794,Ethyl biscoumacetate,unknown,inhibitor
+DB08794,Ethyl biscoumacetate,unknown,substrate
+DB08811,Tofisopam,unknown,inhibitor
+DB08815,Lurasidone,unknown,substrate
+DB08816,Ticagrelor,unknown,Null
+DB08820,Ivacaftor,no,Null
+DB08827,Lomitapide,no,substrate
+DB08828,Vismodegib,no,substrate
+DB08833,Taurochenodeoxycholic acid,unknown,substrate
+DB08838,Agmatine,no,substrate
+DB08845,Oxogluric acid,unknown,Null
+DB08846,Ellagic acid,unknown,inhibitor
+DB08864,Rilpivirine,no,Null
+DB08865,Crizotinib,unknown,Null
+DB08867,Ulipristal,no,substrate
+DB08870,Brentuximab vedotin,no,Null
+DB08873,Boceprevir,unknown,Null
+DB08874,Fidaxomicin,no,inhibitor
+DB08875,Cabozantinib,no,substrate
+DB08877,Ruxolitinib,unknown,substrate
+DB08881,Vemurafenib,unknown,Null
+DB08882,Linagliptin,unknown,Null
+DB08883,Perampanel,no,Null
+DB08893,Mirabegron,no,substrate
+DB08895,Tofacitinib,no,substrate
+DB08896,Regorafenib,unknown,Null
+DB08899,Enzalutamide,no,Null
+DB08901,Ponatinib,unknown,substrate
+DB08903,Bedaquiline,unknown,substrate
+DB08905,Formestane,no,inducer
+DB08906,Fluticasone furoate,unknown,Null
+DB08907,Canagliflozin,unknown,substrate
+DB08909,Glycerol phenylbutyrate,unknown,inducer
+DB08910,Pomalidomide,unknown,substrate
+DB08911,Trametinib,unknown,Null
+DB08912,Dabrafenib,no,Null
+DB08918,Levomilnacipran,unknown,substrate
+DB08922,Perospirone,unknown,substrate
+DB08930,Dolutegravir,no,substrate
+DB08931,Riociguat,unknown,substrate
+DB08932,Macitentan,no,substrate
+DB08933,Luliconazole,no,inhibitor
+DB08934,Sofosbuvir,unknown,substrate
+DB08949,Inositol nicotinate,no,inhibitor
+DB08953,Indalpine,no,Null
+DB08970,Fluprednidene,no,Null
+DB08971,Fluocortolone,no,Null
+DB08980,Fendiline,no,substrate
+DB08992,Eperisone,no,substrate
+DB08995,Diosmin,unknown,inhibitor
+DB09017,Brotizolam,unknown,substrate
+DB09026,Aliskiren,no,substrate
+DB09030,Vorapaxar,no,substrate
+DB09034,Suvorexant,no,substrate
+DB09036,Siltuximab,no,inducer
+DB09039,Eliglustat,no,substrate
+DB09048,Netupitant,no,Null
+DB09049,Naloxegol,unknown,substrate
+DB09053,Ibrutinib,unknown,substrate
+DB09054,Idelalisib,no,Null
+DB09061,Cannabidiol,unknown,Null
+DB09063,Ceritinib,no,Null
+DB09065,Cobicistat,no,substrate
+DB09065,Cobicistat,yes,inhibitor
+DB09068,Vortioxetine,no,substrate
+DB09071,Tasimelteon,no,substrate
+DB09073,Palbociclib,no,Null
+DB09074,Olaparib,unknown,Null
+DB09078,Lenvatinib,no,Null
+DB09079,Nintedanib,no,substrate
+DB09082,Vilanterol,no,substrate
+DB09083,Ivabradine,no,substrate
+DB09089,Trimebutine,no,substrate
+DB09090,Pinaverium,no,substrate
+DB09095,Difluocortolone,no,Null
+DB09099,Somatostatin,no,inhibitor
+DB09101,Elvitegravir,no,Null
+DB09102,Daclatasvir,unknown,substrate
+DB09118,Stiripentol,unknown,Null
+DB09119,Eslicarbazepine acetate,no,inducer
+DB09123,Dienogest,unknown,substrate
+DB09124,Medrogestone,no,substrate
+DB09128,Brexpiprazole,no,substrate
+DB09130,Copper,unknown,Null
+DB09130,Copper,unknown,allosteric modulator
+DB09143,Sonidegib,unknown,substrate
+DB09166,Etizolam,unknown,substrate
+DB09173,Butyrfentanyl,unknown,substrate
+DB09183,Dasabuvir,no,substrate
+DB09185,Viloxazine,no,inhibitor
+DB09195,Lorpiprazole,no,substrate
+DB09198,Lobeglitazone,no,substrate
+DB09199,Netoglitazone,no,substrate
+DB09200,Rivoglitazone,no,substrate
+DB09201,Ciglitazone,no,substrate
+DB09205,Moxisylyte,no,substrate
+DB09212,Loxoprofen,unknown,substrate
+DB09216,Tolfenamic acid,no,substrate
+DB09223,Blonanserin,no,substrate
+DB09225,Zotepine,no,substrate
+DB09227,Barnidipine,no,Null
+DB09229,Aranidipine,no,substrate
+DB09230,Azelnidipine,unknown,substrate
+DB09231,Benidipine,no,Null
+DB09232,Cilnidipine,no,substrate
+DB09234,Darodipine,no,substrate
+DB09235,Efonidipine,unknown,Null
+DB09236,Lacidipine,unknown,substrate
+DB09237,Levamlodipine,unknown,substrate
+DB09238,Manidipine,unknown,Null
+DB09239,Niguldipine,no,substrate
+DB09240,Niludipine,no,substrate
+DB09241,Methylene blue,unknown,inhibitor
+DB09262,Imidafenacin,no,substrate
+DB09280,Lumacaftor,no,inducer
+DB09288,Propacetamol,unknown,Null
+DB09289,Tianeptine,no,substrate
+DB09291,Rolapitant,no,substrate
+DB09297,Paritaprevir,no,substrate
+DB09299,Tenofovir alafenamide,no,substrate
+DB09308,Solithromycin,no,inhibitor
+DB09309,Kitasamycin,no,inhibitor
+DB09317,"Synthetic Conjugated Estrogens, A",no,substrate
+DB09318,"Synthetic Conjugated Estrogens, B",no,substrate
+DB09330,Osimertinib,no,Null
+DB09338,Mersalyl,unknown,antagonist
+DB09371,Norethynodrel,no,substrate
+DB09374,Indocyanine green acid form,no,cofactor
+DB09378,Fluprednisolone,no,substrate
+DB09381,Esterified estrogens,unknown,substrate
+DB09383,Meprednisone,no,Null
+DB09389,Norgestrel,unknown,substrate
+DB09460,Sodium carbonate,unknown,inhibitor
+DB09462,Glycerin,unknown,Null
+DB09472,Sodium sulfate,yes,inhibitor
+DB09498,Strontium chloride Sr-89,no,cofactor
+DB09555,Dexchlorpheniramine maleate,unknown,substrate
+DB09568,Omega-3-carboxylic acids,no,substrate
+DB09570,Ixazomib,unknown,substrate
+DB10534,Grapefruit,unknown,inhibitor
+DB11091,Hydrogen peroxide,unknown,inhibitor
+DB11094,Vitamin D,no,substrate
+DB11118,Ammonia,unknown,substrate
+DB11127,Selenious acid,unknown,substrate
+DB11130,Opium,no,substrate
+DB11135,Selenium,no,substrate
+DB11198,Peppermint oil,unknown,inhibitor
+DB11251,Tocopherol,no,substrate
+DB11256,Levomefolic acid,unknown,Null
+DB11273,Dihydroergocornine,no,substrate
+DB11274,Dihydro-alpha-ergocryptine,no,substrate
+DB11362,Selexipag,no,substrate
+DB11383,Carbomycin,no,inhibitor
+DB11400,Doramectin,no,inhibitor
+DB11405,Eprinomectin,no,inhibitor
+DB11442,Oleandomycin,no,inhibitor
+DB11459,Selamectin,no,inhibitor
+DB11470,Tildipirosin,no,inhibitor
+DB11487,Dexamethasone isonicotinate,no,Null
+DB11529,Melengestrol,no,substrate
+DB11560,Lesinurad,unknown,inducer
+DB11574,Elbasvir,unknown,substrate
+DB11575,Grazoprevir,no,Null
+DB11581,Venetoclax,no,Null
+DB11586,Asunaprevir,no,Null
+DB11590,Thimerosal,unknown,antagonist
+DB11605,Myrrh,unknown,inducer
+DB11613,Velpatasvir,no,substrate
+DB11614,Rupatadine,no,substrate
+DB11619,Gestrinone,no,substrate
+DB11633,Isavuconazole,unknown,Null
+DB11635,Tocofersolan,no,substrate
+DB11636,Nomegestrol,no,substrate
+DB11637,Delamanid,no,substrate
+DB11638,Artenimol,unknown,ligand
+DB11641,Vinflunine,no,substrate
+DB11642,Pitolisant,unknown,Null
+DB11652,Tucatinib,unknown,substrate
+DB11672,Curcumin,unknown,inhibitor
+DB11682,Daprodustat,no,substrate
+DB11682,Daprodustat,yes,inhibitor
+DB11689,Selumetinib,no,substrate
+DB11691,Naldemedine,no,substrate
+DB11693,Voclosporin,unknown,Null
+DB11697,Pacritinib,no,Null
+DB11703,Acalabrutinib,unknown,Null
+DB11703,Acalabrutinib,unknown,substrate
+DB11712,Tezacaftor,no,substrate
+DB11718,Encorafenib,unknown,substrate
+DB11730,Ribociclib,no,Null
+DB11737,Icotinib,unknown,substrate
+DB11739,Vonoprazan,unknown,substrate
+DB11742,Ebastine,no,substrate
+DB11742,Ebastine,unknown,substrate
+DB11750,Clobetasol,no,Null
+DB11752,Bryostatin 1,no,inhibitor
+DB11753,Rifamycin,no,Null
+DB11757,Istradefylline,unknown,inhibitor
+DB11757,Istradefylline,unknown,substrate
+DB11761,Tenapanor,unknown,substrate
+DB11767,Sarilumab,no,Null
+DB11779,Danoprevir,no,inhibitor
+DB11791,Capmatinib,unknown,substrate
+DB11792,Mirodenafil,unknown,substrate
+DB11796,Fostemsavir,unknown,substrate
+DB11799,Bictegravir,unknown,substrate
+DB11800,Tivozanib,unknown,substrate
+DB11805,Saracatinib,no,inhibitor
+DB11817,Baricitinib,unknown,substrate
+DB11823,Esketamine,unknown,Null
+DB11828,Neratinib,unknown,substrate
+DB11837,Osilodrostat,unknown,Null
+DB11853,Relugolix,unknown,Null
+DB11886,Infigratinib,no,substrate
+DB11901,Apalutamide,no,Null
+DB11915,Valbenazine,no,substrate
+DB11919,6-O-benzylguanine,no,substrate
+DB11921,Deflazacort,no,Null
+DB11932,Abametapir,no,inhibitor
+DB11942,Selinexor,unknown,substrate
+DB11943,Delafloxacin,unknown,inducer
+DB11951,Lemborexant,unknown,Null
+DB11951,Lemborexant,unknown,substrate
+DB11952,Duvelisib,no,substrate
+DB11960,Carboxyamidotriazole,no,substrate
+DB11963,Dacomitinib,no,substrate
+DB11978,Glasdegib,unknown,substrate
+DB11979,Elagolix,no,substrate
+DB11986,Entrectinib,unknown,substrate
+DB11994,Diacerein,unknown,inhibitor
+DB12001,Abemaciclib,unknown,Null
+DB12010,Fostamatinib,unknown,Null
+DB12015,Alpelisib,unknown,substrate
+DB12016,Ponesimod,unknown,substrate
+DB12020,Tecovirimat,no,inducer
+DB12026,Voxilaprevir,no,substrate
+DB12070,Letermovir,unknown,inhibitor
+DB12089,Lorvotuzumab mertansine,no,inhibitor
+DB12092,Naftopidil,no,substrate
+DB12093,Tetrahydropalmatine,no,substrate
+DB12095,Telotristat ethyl,no,Null
+DB12130,Lorlatinib,unknown,Null
+DB12131,Vinpocetine,no,substrate
+DB12141,Gilteritinib,no,substrate
+DB12147,Erdafitinib,unknown,substrate
+DB12159,Dupilumab,yes,Null
+DB12161,Deutetrabenazine,no,substrate
+DB12235,Estetrol,unknown,substrate
+DB12236,Bexagliflozin,unknown,substrate
+DB12240,Polatuzumab vedotin,no,substrate
+DB12245,Triclabendazole,unknown,Null
+DB12255,Vadadustat,yes,inhibitor
+DB12265,Fexinidazole,unknown,Null
+DB12266,Epofolate,no,inhibitor
+DB12267,Brigatinib,no,substrate
+DB12267,Brigatinib,unknown,inducer
+DB12278,Propiverine,no,substrate
+DB12301,Doravirine,unknown,substrate
+DB12307,Foretinib,unknown,substrate
+DB12329,Eravacycline,unknown,substrate
+DB12332,Rucaparib,no,Null
+DB12371,Siponimod,unknown,substrate
+DB12391,Sagopilone,no,inhibitor
+DB12418,Saccharin,unknown,inhibitor
+DB12457,Rimegepant,no,Null
+DB12471,Ibrexafungerp,unknown,Null
+DB12474,Lynestrenol,no,substrate
+DB12483,Copanlisib,no,substrate
+DB12489,Mirvetuximab soravtansine,no,Null
+DB12499,Clascoterone,no,inhibitor
+DB12500,Fedratinib,unknown,substrate
+DB12513,Omaveloxolone,unknown,Null
+DB12515,9-aminocamptothecin,no,substrate
+DB12532,Oxetacaine,no,inhibitor
+DB12537,"1,2-Benzodiazepine",unknown,substrate
+DB12543,Samidorphan,no,substrate
+DB12548,Sparsentan,unknown,Null
+DB12582,Piperine,unknown,inhibitor
+DB12597,Asciminib,no,Null
+DB12612,Ozanimod,unknown,substrate
+DB12629,"3,5-diiodothyropropionic acid",no,substrate
+DB12674,Lurbinectedin,unknown,substrate
+DB12695,Phenethyl Isothiocyanate,unknown,Null
+DB12713,Sotagliflozin,no,Null
+DB12741,DTP-348,yes,inhibitor
+DB12781,Balaglitazone,no,substrate
+DB12808,Trifarotene,unknown,substrate
+DB12816,Terpinen-4-ol,unknown,downregulator
+DB12825,Lefamulin,unknown,substrate
+DB12834,Secnidazole,unknown,Null
+DB12887,Tazemetostat,unknown,substrate
+DB12923,Gallopamil,no,substrate
+DB12941,Darolutamide,unknown,substrate
+DB12952,Methylprednisone,no,substrate
+DB12978,Pexidartinib,unknown,Null
+DB13003,Cortivazol,unknown,inducer
+DB13007,Enfortumab vedotin,unknown,substrate
+DB13074,Macimorelin,unknown,substrate
+DB13141,Ambroxol acefyllinate,no,substrate
+DB13158,Clobetasone,no,substrate
+DB13174,Rhein,unknown,inhibitor
+DB13179,Troleandomycin,unknown,Null
+DB13208,Prednylidene,no,Null
+DB13287,Miocamycin,no,inhibitor
+DB13293,Ipecac,no,substrate
+DB13338,Flurithromycin,no,inhibitor
+DB13345,Dihydroergocristine,no,substrate
+DB13347,Diphenadione,no,substrate
+DB13385,Dihydroergocryptine,no,substrate
+DB13399,Terguride,no,substrate
+DB13409,Rokitamycin,no,inhibitor
+DB13456,Midecamycin,no,Null
+DB13488,Bencyclane,no,substrate
+DB13500,Otilonium,no,substrate
+DB13528,Chlormadinone,no,substrate
+DB13602,Promegestone,no,substrate
+DB13609,Umifenovir,unknown,substrate
+DB13685,Quingestanol,no,substrate
+DB13725,Terodiline,no,substrate
+DB13728,Halometasone,unknown,inducer
+DB13746,Bioallethrin,no,substrate
+DB13766,Lidoflazine,no,substrate
+DB13791,Penfluridol,no,substrate
+DB13835,Caroverine,no,substrate
+DB13843,Cloprednol,unknown,inducer
+DB13857,Demegestone,no,substrate
+DB13866,Etynodiol,no,substrate
+DB13867,Fluticasone,no,Null
+DB13874,Enasidenib,unknown,Null
+DB13874,Enasidenib,yes,inhibitor
+DB13878,Pibrentasvir,unknown,inhibitor
+DB13879,Glecaprevir,unknown,Null
+DB13879,Glecaprevir,unknown,inhibitor
+DB13941,Piperaquine,unknown,Null
+DB13943,Testosterone cypionate,unknown,Null
+DB13944,Testosterone enanthate,unknown,Null
+DB13946,Testosterone undecanoate,unknown,Null
+DB13950,WIN 55212-2,no,Null
+DB13952,Estradiol acetate,unknown,Null
+DB13953,Estradiol benzoate,unknown,Null
+DB13954,Estradiol cypionate,unknown,Null
+DB13955,Estradiol dienanthate,unknown,Null
+DB13956,Estradiol valerate,unknown,Null
+DB13961,Fish oil,no,substrate
+DB13975,Black cohosh,no,inhibitor
+DB13981,Nomegestrol acetate,no,substrate
+DB13997,Baloxavir marboxil,no,Null
+DB14003,alpha-Tocopherol acetate,no,substrate
+DB14009,Medical Cannabis,unknown,Null
+DB14011,Nabiximols,unknown,substrate
+DB14019,Fosnetupitant,unknown,Null
+DB14055,(S)-Warfarin,no,substrate
+DB14063,Dexverapamil,no,substrate
+DB14064,Emopamil,no,substrate
+DB14065,Lomerizine,no,substrate
+DB14066,Tetrandrine,no,substrate
+DB14068,Dexniguldipine,no,substrate
+DB14126,Tenofovir,no,substrate
+DB14185,Aripiprazole lauroxil,unknown,substrate
+DB14240,Echinacea,unknown,inducer
+DB14487,Zinc acetate,unknown,Null
+DB14487,Zinc acetate,unknown,ligand
+DB14512,Mometasone furoate,no,Null
+DB14533,Zinc chloride,unknown,binder
+DB14533,Zinc chloride,unknown,cofactor
+DB14533,Zinc chloride,unknown,inhibitor
+DB14533,Zinc chloride,unknown,ligand
+DB14538,Hydrocortisone aceponate,unknown,Null
+DB14539,Hydrocortisone acetate,unknown,Null
+DB14540,Hydrocortisone butyrate,unknown,Null
+DB14541,Hydrocortisone cypionate,unknown,substrate
+DB14542,Hydrocortisone phosphate,unknown,substrate
+DB14543,Hydrocortisone probutate,unknown,Null
+DB14544,Hydrocortisone valerate,unknown,Null
+DB14545,Hydrocortisone succinate,unknown,Null
+DB14548,"Zinc sulfate, unspecified form",unknown,binder
+DB14548,"Zinc sulfate, unspecified form",unknown,cofactor
+DB14548,"Zinc sulfate, unspecified form",unknown,inhibitor
+DB14548,"Zinc sulfate, unspecified form",unknown,ligand
+DB14568,Ivosidenib,unknown,Null
+DB14568,Ivosidenib,yes,inhibitor
+DB14570,Hydroxyprogesterone,no,substrate
+DB14575,Eslicarbazepine,unknown,inducer
+DB14583,Segesterone acetate,unknown,substrate
+DB14596,Loteprednol etabonate,unknown,substrate
+DB14598,Edetate calcium disodium anhydrous,unknown,inhibitor
+DB14600,Edetate disodium anhydrous,unknown,inhibitor
+DB14631,Prednisolone phosphate,unknown,Null
+DB14631,Prednisolone phosphate,unknown,inducer
+DB14633,Prednisolone hemisuccinate,unknown,inducer
+DB14634,Fluprednidene acetate,no,inducer
+DB14635,Curcumin sulfate,unknown,inhibitor
+DB14637,Fluprednisolone acetate,no,substrate
+DB14644,Methylprednisolone hemisuccinate,unknown,inducer
+DB14646,Prednisone acetate,unknown,inducer
+DB14649,Dexamethasone acetate,unknown,Null
+DB14652,Clocortolone acetate,unknown,inducer
+DB14659,Melengestrol acetate,unknown,inducer
+DB14669,Betamethasone phosphate,unknown,Null
+DB14678,Norethindrone enanthate,unknown,substrate
+DB14681,Cortisone,unknown,inducer
+DB14723,Larotrectinib,unknown,substrate
+DB14737,Cannabinol,unknown,Null
+DB14761,Remdesivir,unknown,Null
+DB14840,Ripretinib,unknown,substrate
+DB14881,Oliceridine,no,substrate
+DB14895,Vibegron,no,substrate
+DB14921,Mavacamten,no,Null
+DB14962,Trastuzumab deruxtecan,unknown,substrate
+DB14973,Abrocitinib,no,substrate
+DB14975,Voxelotor,unknown,substrate
+DB14984,Casimersen,no,inhibitor
+DB14989,Umbralisib,unknown,substrate
+DB15011,Avacopan,no,Null
+DB15031,Daridorexant,no,substrate
+DB15035,Zanubrutinib,no,substrate
+DB15035,Zanubrutinib,unknown,substrate
+DB15091,Upadacitinib,no,substrate
+DB15102,Pemigatinib,no,substrate
+DB15133,Tepotinib,no,Null
+DB15149,Futibatinib,no,substrate
+DB15233,Avapritinib,unknown,substrate
+DB15305,Risdiplam,unknown,inhibitor
+DB15305,Risdiplam,unknown,substrate
+DB15328,Ubrogepant,unknown,substrate
+DB15444,Elexacaftor,unknown,Null
+DB15463,Belzutifan,no,substrate
+DB15489,Mexazolam,unknown,substrate
+DB15566,Prednisolone acetate,unknown,Null
+DB15568,Adagrasib,unknown,Null
+DB15569,Sotorasib,unknown,substrate
+DB15628,Inolimomab,unknown,antibody
+DB15673,Lenacapavir,no,Null
+DB15685,Selpercatinib,unknown,inhibitor
+DB15685,Selpercatinib,unknown,substrate
+DB15688,Zavegepant,unknown,substrate
+DB15822,Pralsetinib,no,Null
+DB15982,Berotralstat,no,inhibitor
+DB16098,Atogepant,no,substrate
+DB16165,Finerenone,unknown,substrate
+DB16222,Loncastuximab tesirine,unknown,Null
+DB16226,Maralixibat,no,inhibitor
+DB16236,Mitapivat,no,Null
+DB16267,Olutasidenib,no,Null
+DB16267,Olutasidenib,yes,inhibitor
+DB16318,Romilkimab,unknown,inhibitor
+DB16349,Vicagrel,unknown,substrate
+DB16390,Mobocertinib,unknown,substrate
+DB16411,Camidanlumab tesirine,unknown,Null
+DB16536,Birch bark extract,unknown,inhibitor
+DB16691,Nirmatrelvir,no,Null
+DB16703,Belumosudil,no,substrate
+DB16732,Tisotumab vedotin,no,substrate
+DB17083,Linzagolix,no,substrate
+DB17472,Pirtobrutinib,unknown,Null
