@@ -1203,6 +1203,7 @@ DB06791,Lanreotide,no,inhibitor
 DB06795,Mafenide,unknown,antagonist
 DB06813,Pralatrexate,yes,substrate
 DB06819,Phenylbutyric acid,unknown,Null
+DB06851,N-(pyridin-3-ylmethyl)aniline,unknown,Null
 DB06864,"2-(3-CARBOXYPROPIONYL)-6-HYDROXY-CYCLOHEXA-2,4-DIENE CARBOXYLIC ACID",unknown,Null
 DB06891,"5-{[(4-AMINO-3-CHLORO-5-FLUOROPHENYL)SULFONYL]AMINO}-1,3,4-THIADIAZOLE-2-SULFONAMIDE",unknown,Null
 DB06954,"2-(cycloheptylmethyl)-1,1-dioxido-1-benzothiophen-6-yl sulfamate",unknown,Null
@@ -1212,6 +1213,7 @@ DB07050,"5-[(phenylsulfonyl)amino]-1,3,4-thiadiazole-2-sulfonamide",unknown,Null
 DB07052,5'-S-ethyl-5'-thioadenosine,unknown,Null
 DB07115,"N-(4-chlorobenzyl)-N-methylbenzene-1,4-disulfonamide",unknown,Null
 DB07270,"N-[7-(3-AMINOPHENYL)-5-METHOXY-1,3-BENZOXAZOL-2-YL]-2,5-DICHLOROBENZENESULFONAMIDE",unknown,Null
+DB07291,5-amino-1-(4-chlorophenyl)-1H-pyrazole-4-carbonitrile,unknown,Null
 DB07296,(5Z)-3-(4-CHLOROPHENYL)-4-HYDROXY-5-(1-NAPHTHYLMETHYLENE)FURAN-2(5H)-ONE,unknown,Null
 DB07312,"2,5-DICHLORO-N-(5-CHLORO-1,3-BENZOXAZOL-2-YL)BENZENESULFONAMIDE",unknown,Null
 DB07321,"2,5-DICHLORO-N-[5-METHOXY-7-(6-METHOXYPYRIDIN-3-YL)-1,3-BENZOXAZOL-2-YL]BENZENESULFONAMIDE",unknown,Null
