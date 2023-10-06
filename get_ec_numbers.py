@@ -3,38 +3,53 @@ import cobra
 import csv
 
 
-def get_ec_numbers(model, filename):
-
-    # Read the model
-    model = read_sbml_model(model)
-
-    # Get reaction EC_NUMBER and NAME
-    reactions = []
-    reactions_name = []
-    for reaction in cobra.flux_analysis.variability.find_essential_reactions(model):
-        try:
-            reactions.append(reaction.annotation['ec-code'])
-            if type(reaction.annotation['ec-code']) == type([]):
-                for code in reaction.annotation['ec-code']:
-                    reactions_name.append(
-                        [code, reaction.name.replace("'", "")])
-            else:
-                reactions_name.append(
-                    [reaction.annotation['ec-code'], reaction.name.replace("'", "")])
-        except:
-            pass
-    # Write the EC numbers for further use in selenium
+def write_reactions(filename, reactions):
     with open(filename, "w") as f:
         for reaction in reactions:
             f.write(f"{reaction}\n")
 
-    # Write the EC numbers and name for further use building the database
-    with open("files/EC_NAME.csv", "w", newline='') as f:
+
+def write_reactions_name(filename: str, reactions_name: list[tuple[str, str]]) -> None:
+    with open(filename, "w", newline='') as f:
         writer = csv.writer(f)
         writer.writerows(reactions_name)
 
-    print(f"All Done! File {filename} sucessufuly created!")
+
+def add_reaction_name(reactions_name: list[tuple[str, str]],
+                      reaction: cobra.Reaction) -> None:
+    if isinstance(reaction.annotation['ec-code'], list):
+        for code in reaction.annotation['ec-code']:
+            reactions_name.append(
+                (code, reaction.name.replace("'", "")))
+    else:
+        reactions_name.append(
+            (reaction.annotation['ec-code'], reaction.name.replace("'", "")))
+
+
+def get_ec_numbers(model_path: str):
+    model = read_sbml_model(model_path)
+
+    reactions: list[str | list[str]] = []
+    reactions_name: list[tuple[str, str]] = []
+
+    for reaction in cobra.flux_analysis.variability.find_essential_reactions(model):
+        if reaction.annotation.get('ec-code') is None:
+            continue
+
+        reactions.append(reaction.annotation['ec-code'])
+
+        add_reaction_name(reactions_name, reaction)
+
+    return reactions, reactions_name
+
+
+def define_ec_numbers(model_path, filename, db_file_name):
+    reactions, reactions_name = get_ec_numbers(model_path)
+    write_reactions(filename, reactions)
+    write_reactions_name(db_file_name, reactions_name)
 
 
 if __name__ == '__main__':
-    get_ec_numbers('models/iEK1008.xml', "files/my_ec_numbers")
+    define_ec_numbers("models/iEK1008.xml",
+                      "files/my_ec_numbers",
+                      "files/EC_NAME.csv")

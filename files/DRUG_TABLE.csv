@@ -80,7 +80,7 @@ DB00204,Dofetilide,unknown,substrate
 DB00207,Azithromycin,unknown,Null
 DB00210,Adapalene,unknown,inhibitor
 DB00213,Pantoprazole,unknown,substrate
-DB00215,Citalopram,unknown,Null
+DB00215,Citalopram,no,Null
 DB00216,Eletriptan,unknown,substrate
 DB00220,Nelfinavir,no,Null
 DB00224,Indinavir,unknown,Null
@@ -321,7 +321,6 @@ DB00714,Apomorphine,unknown,Null
 DB00715,Paroxetine,no,Null
 DB00717,Norethisterone,unknown,substrate
 DB00718,Adefovir dipivoxil,unknown,substrate
-DB00719,Azatadine,unknown,inducer
 DB00724,Imiquimod,unknown,substrate
 DB00731,Nateglinide,unknown,substrate
 DB00734,Risperidone,unknown,substrate
@@ -514,7 +513,7 @@ DB01169,Arsenic trioxide,unknown,inhibitor
 DB01169,Arsenic trioxide,yes,inhibitor
 DB01173,Orphenadrine,unknown,Null
 DB01174,Phenobarbital,unknown,inducer
-DB01175,Escitalopram,unknown,substrate
+DB01175,Escitalopram,no,substrate
 DB01181,Ifosfamide,unknown,Null
 DB01182,Propafenone,unknown,substrate
 DB01183,Naloxone,unknown,Null
@@ -522,8 +521,8 @@ DB01184,Domperidone,unknown,substrate
 DB01186,Pergolide,unknown,inhibitor
 DB01190,Clindamycin,unknown,Null
 DB01192,Oxymorphone,unknown,substrate
+DB01194,Brinzolamide,no,substrate
 DB01194,Brinzolamide,unknown,inhibitor
-DB01194,Brinzolamide,unknown,substrate
 DB01194,Brinzolamide,yes,inhibitor
 DB01196,Estramustine,unknown,substrate
 DB01198,Zopiclone,unknown,substrate
@@ -569,6 +568,7 @@ DB01267,Paliperidone,unknown,substrate
 DB01268,Sunitinib,no,Null
 DB01275,Hydralazine,no,inhibitor
 DB01275,Hydralazine,unknown,inhibitor
+DB01280,Nelarabine,yes,inhibitor
 DB01285,Corticotropin,no,Null
 DB01319,Fosamprenavir,unknown,Null
 DB01320,Fosphenytoin,unknown,Null
@@ -629,6 +629,7 @@ DB01632,5-O-phosphono-alpha-D-ribofuranosyl diphosphate,unknown,Null
 DB01632,5-O-phosphono-alpha-D-ribofuranosyl diphosphate,unknown,substrate
 DB01639,N-Methyl-Pyridoxal-5'-Phosphate,unknown,Null
 DB01643,Thymidine monophosphate,unknown,Null
+DB01643,Thymidine monophosphate,unknown,product of
 DB01645,Genistein,unknown,inducer
 DB01646,N-Acetylmethionine,unknown,Null
 DB01652,4-hydroxybenzoyl-CoA,unknown,Null
@@ -685,6 +686,7 @@ DB02129,Dihydroorotic Acid,unknown,Null
 DB02130,Vanillic acid,unknown,Null
 DB02135,"1-deoxy-1-{2,6,8-trioxo-7-[4-(phosphonooxy)butyl]-1,2,3,6,7,8-hexahydro-9H-purin-9-yl}-D-arabinitol",unknown,Null
 DB02142,Pyridoxamine-5'-Phosphate,unknown,Null
+DB02153,3-sulfino-L-alanine,unknown,Null
 DB02159,(R)-Propylene glycol,unknown,Null
 DB02174,D-Glutamine,unknown,Null
 DB02175,Malonic acid,unknown,Null
@@ -693,6 +695,7 @@ DB02184,"D-1,4-dithiothreitol",unknown,Null
 DB02187,Equilin,no,substrate
 DB02190,(S)-oxalosuccinic acid,unknown,Null
 DB02196,Uridine-Diphosphate-N-Acetylgalactosamine,unknown,Null
+DB02201,Malonate Ion,unknown,Null
 DB02214,"6,7-dioxo-5H-8-ribitylaminolumazine",unknown,Null
 DB02220,AL7089A,unknown,Null
 DB02221,"4-(Aminosulfonyl)-N-[(2,4,6-Trifluorophenyl)Methyl]-Benzamide",unknown,Null
@@ -831,7 +834,7 @@ DB03258,2'-Deoxycytidine 5'-triphosphate,unknown,Null
 DB03262,"Al-6619, [2h-Thieno[3,2-E]-1,2-Thiazine-6-Sulfonamide,2-(3-Hydroxyphenyl)-3-(4-Morpholinyl)-, 1,1-Dioxide]",unknown,Null
 DB03270,"2,6-Difluorobenzenesulfonamide",unknown,Null
 DB03273,3'-Oxo-Adenosine,unknown,Null
-DB03280,p1-(5'-adenosyl)p5-(5'-thymidyl)pentaphosphate,unknown,Null
+DB03280,p1-(5'-adenosyl)p5-(5'-thymidyl)pentaphosphate,unknown,ligand
 DB03292,3-Phosphono-D-alanine,unknown,Null
 DB03294,"1-Methyl-3-Oxo-1,3-Dihydro-Benzo[C]Isothiazole-5-Sulfonic Acid Amide",unknown,Null
 DB03299,N-Succinyl Phenylglycine,unknown,Null
@@ -856,7 +859,6 @@ DB03501,Galactose-uridine-5'-diphosphate,unknown,Null
 DB03502,(4s)-4-{[(2s)-2-Amino-3-Oxopropyl]Sulfanyl}-L-Homoserinate,unknown,Null
 DB03510,6-O-Phosphoryl Inosine Monophosphate,unknown,Null
 DB03515,Equilenin,no,substrate
-DB03522,Aspartic Acid-4-Carboxymethyl Ester,unknown,Null
 DB03526,AL5927,unknown,Null
 DB03543,1-(O-Carboxy-Phenylamino)-1-Deoxy-D-Ribulose-5-Phosphate,unknown,Null
 DB03553,Glutaric Acid,unknown,Null
@@ -921,6 +923,7 @@ DB03961,"2c-Methyl-D-Erythritol 2,4-Cyclodiphosphate",unknown,Null
 DB03964,4-Hydroxy-Aconitate Ion,unknown,Null
 DB03973,"3-[2,6,8-Trioxo-9-[(2R,3R,4R)-2,3,4,5-tetrahydroxypentyl]-3H-purin-7-yl]propyl dihydrogen phosphate",unknown,Null
 DB03975,Mercuribenzoic Acid,unknown,Null
+DB03991,"2-deoxy-2,3-dehydro-N-acetylneuraminic acid",unknown,Null
 DB03993,Isocaproic acid,unknown,Null
 DB03997,L-histidinol phosphate,unknown,Null
 DB04002,4-Sulfonamide-[4-(Thiomethylaminobutane)]Benzamide,unknown,Null
@@ -960,6 +963,7 @@ DB04242,4-hydroxybenzoic acid,unknown,Null
 DB04252,N-Carbamoylaspartic acid,unknown,Null
 DB04262,3-(7-hydroxy-8-ribityllumazine-6-yl) propionic acid,unknown,Null
 DB04264,"(10R)-10-formyl-5,8,10-trideazafolic acid",unknown,Null
+DB04265,N-acetyl-beta-neuraminic acid,unknown,Null
 DB04272,Citric acid,unknown,Null
 DB04272,Citric acid,yes,Null
 DB04279,3-Isopropylmalic Acid,unknown,Null
@@ -989,6 +993,7 @@ DB04461,Coproporphyrinogen III,unknown,Null
 DB04467,N-(5'-phosphopyridoxyl)-L-alanine,unknown,Null
 DB04474,8-anilinonaphthalene-1-sulfonic acid,unknown,Null
 DB04485,Thymidine,unknown,Null
+DB04485,Thymidine,unknown,substrate
 DB04490,3-(Mercaptomethylene)Pyridine,unknown,Null
 DB04493,Fructose-6-phosphate,unknown,Null
 DB04496,4-Phospho-D-erythronohydroxamic acid,unknown,Null
@@ -1069,7 +1074,7 @@ DB05109,Trabectedin,unknown,substrate
 DB05154,Pretomanid,unknown,substrate
 DB05212,HE3286,no,substrate
 DB05239,Cobimetinib,no,Null
-DB05260,Gallium nitrate,yes,inhibitor
+DB05260,Gallium nitrate,unknown,inhibitor
 DB05271,Rotigotine,unknown,substrate
 DB05294,Vandetanib,unknown,substrate
 DB05304,Girentuximab,unknown,Null
@@ -1078,9 +1083,9 @@ DB05351,Dexlansoprazole,unknown,substrate
 DB05420,Gallium maltolate,unknown,Null
 DB05428,Motexafin gadolinium,unknown,Null
 DB05448,PX-12,unknown,Null
-DB05467,Palovarotene,no,substrate
+DB05467,Palovarotene,no,Null
 DB05478,Pradefovir mesylate,unknown,Null
-DB05482,7-ethyl-10-hydroxycamptothecin,unknown,Null
+DB05482,SN-38,unknown,Null
 DB05483,Picolinic acid,unknown,Null
 DB05518,Managlinat dialanetil,unknown,Null
 DB05521,Telaprevir,unknown,Null
@@ -1169,7 +1174,7 @@ DB06670,Odanacatib,no,substrate
 DB06684,Vilazodone,unknown,substrate
 DB06685,Laquinimod,unknown,substrate
 DB06697,Artemether,unknown,Null
-DB06700,Desvenlafaxine,unknown,Null
+DB06700,Desvenlafaxine,no,Null
 DB06702,Fesoterodine,unknown,substrate
 DB06708,Lumefantrine,unknown,substrate
 DB06710,Methyltestosterone,unknown,substrate
@@ -1198,7 +1203,6 @@ DB06791,Lanreotide,no,inhibitor
 DB06795,Mafenide,unknown,antagonist
 DB06813,Pralatrexate,yes,substrate
 DB06819,Phenylbutyric acid,unknown,Null
-DB06851,N-(pyridin-3-ylmethyl)aniline,unknown,Null
 DB06864,"2-(3-CARBOXYPROPIONYL)-6-HYDROXY-CYCLOHEXA-2,4-DIENE CARBOXYLIC ACID",unknown,Null
 DB06891,"5-{[(4-AMINO-3-CHLORO-5-FLUOROPHENYL)SULFONYL]AMINO}-1,3,4-THIADIAZOLE-2-SULFONAMIDE",unknown,Null
 DB06954,"2-(cycloheptylmethyl)-1,1-dioxido-1-benzothiophen-6-yl sulfamate",unknown,Null
@@ -1208,7 +1212,6 @@ DB07050,"5-[(phenylsulfonyl)amino]-1,3,4-thiadiazole-2-sulfonamide",unknown,Null
 DB07052,5'-S-ethyl-5'-thioadenosine,unknown,Null
 DB07115,"N-(4-chlorobenzyl)-N-methylbenzene-1,4-disulfonamide",unknown,Null
 DB07270,"N-[7-(3-AMINOPHENYL)-5-METHOXY-1,3-BENZOXAZOL-2-YL]-2,5-DICHLOROBENZENESULFONAMIDE",unknown,Null
-DB07291,5-amino-1-(4-chlorophenyl)-1H-pyrazole-4-carbonitrile,unknown,Null
 DB07296,(5Z)-3-(4-CHLOROPHENYL)-4-HYDROXY-5-(1-NAPHTHYLMETHYLENE)FURAN-2(5H)-ONE,unknown,Null
 DB07312,"2,5-DICHLORO-N-(5-CHLORO-1,3-BENZOXAZOL-2-YL)BENZENESULFONAMIDE",unknown,Null
 DB07321,"2,5-DICHLORO-N-[5-METHOXY-7-(6-METHOXYPYRIDIN-3-YL)-1,3-BENZOXAZOL-2-YL]BENZENESULFONAMIDE",unknown,Null
@@ -1260,6 +1263,7 @@ DB08413,METHYL-PHOSPHONIC ACID MONO-(4-NITRO-PHENYL) ESTER,unknown,Null
 DB08416,"(9BETA,13ALPHA,14BETA,17ALPHA)-2-METHOXYESTRA-1,3,5(10)-TRIENE-3,17-DIYL DISULFAMATE",unknown,Null
 DB08418,"(4aS,4bR,10bS,12aS)-12a-methyl-1,3-dioxo-2-(pyridin-3-ylmethyl)-1,2,3,4,4a,4b,5,6,10b,11,12,12a-dodecahydronaphtho[2,1-f]isoquinolin-8-yl sulfamate",unknown,Null
 DB08421,PIPERIDINE-2-CARBOXYLIC ACID TERT-BUTYLAMIDE,unknown,Null
+DB08427,Prephenic acid,unknown,Null
 DB08439,Parecoxib,unknown,substrate
 DB08474,3-(CARBOXYAMIDE(2-CARBOXYAMIDE-2-TERTBUTYLETHYL))PENTAN,unknown,Null
 DB08484,4-AMINO-N-[(2-SULFANYLETHYL)CARBAMOYL]BENZENESULFONAMIDE,unknown,Null
@@ -1268,6 +1272,7 @@ DB08496,(R)-warfarin,unknown,substrate
 DB08502,Capravirine,unknown,substrate
 DB08629,"N1-(2-AMINO-4-METHYLPENTYL)OCTAHYDRO-PYRROLO[1,2-A] PYRIMIDINE",unknown,Null
 DB08645,"6-CHLORO-3-(DICHLOROMETHYL)-3,4-DIHYDRO-2H-1,2,4-BENZOTHIADIAZINE-7-SULFONAMIDE 1,1-DIOXIDE",unknown,Null
+DB08648,"8-Hydroxy-2-oxa-bicyclo[3.3.1]non-6-ene-3,5-dicarboxylic acid",unknown,Null
 DB08659,2-(hydrazinocarbonyl)-3-phenyl-1H-indole-5-sulfonamide,unknown,Null
 DB08663,4-HYDROXY-7-METHOXY-3-(1-PHENYL-PROPYL)-CHROMEN-2-ONE,unknown,Null
 DB08664,({3-[1-(4-Hydroxy-2-oxo-2H-chromen-3-yl)-propyl]-phenylcarbamoyl}-methyl)-carbamic acid tert-butyl ester,unknown,Null
@@ -1305,7 +1310,7 @@ DB08899,Enzalutamide,no,Null
 DB08901,Ponatinib,unknown,substrate
 DB08903,Bedaquiline,unknown,substrate
 DB08905,Formestane,no,inducer
-DB08906,Fluticasone furoate,unknown,Null
+DB08906,Fluticasone furoate,no,Null
 DB08907,Canagliflozin,unknown,substrate
 DB08909,Glycerol phenylbutyrate,unknown,inducer
 DB08910,Pomalidomide,unknown,substrate
@@ -1462,7 +1467,7 @@ DB11693,Voclosporin,unknown,Null
 DB11697,Pacritinib,no,Null
 DB11703,Acalabrutinib,unknown,Null
 DB11703,Acalabrutinib,unknown,substrate
-DB11712,Tezacaftor,no,substrate
+DB11712,Tezacaftor,no,Null
 DB11718,Encorafenib,unknown,substrate
 DB11730,Ribociclib,no,Null
 DB11737,Icotinib,unknown,substrate
@@ -1475,6 +1480,7 @@ DB11753,Rifamycin,no,Null
 DB11757,Istradefylline,unknown,inhibitor
 DB11757,Istradefylline,unknown,substrate
 DB11761,Tenapanor,unknown,substrate
+DB11763,Momelotinib,unknown,substrate
 DB11767,Sarilumab,no,Null
 DB11779,Danoprevir,no,inhibitor
 DB11791,Capmatinib,unknown,substrate
@@ -1511,7 +1517,7 @@ DB12015,Alpelisib,unknown,substrate
 DB12016,Ponesimod,unknown,substrate
 DB12020,Tecovirimat,no,inducer
 DB12026,Voxilaprevir,no,substrate
-DB12070,Letermovir,unknown,inhibitor
+DB12070,Letermovir,no,Null
 DB12089,Lorvotuzumab mertansine,no,inhibitor
 DB12092,Naftopidil,no,substrate
 DB12093,Tetrahydropalmatine,no,substrate
@@ -1519,13 +1525,15 @@ DB12095,Telotristat ethyl,no,Null
 DB12130,Lorlatinib,unknown,Null
 DB12131,Vinpocetine,no,substrate
 DB12141,Gilteritinib,no,substrate
-DB12147,Erdafitinib,unknown,substrate
+DB12147,Erdafitinib,no,Null
 DB12159,Dupilumab,yes,Null
 DB12161,Deutetrabenazine,no,substrate
+DB12184,Gepirone,no,substrate
 DB12235,Estetrol,unknown,substrate
 DB12236,Bexagliflozin,unknown,substrate
 DB12240,Polatuzumab vedotin,no,substrate
 DB12245,Triclabendazole,unknown,Null
+DB12255,Vadadustat,unknown,downregulator
 DB12255,Vadadustat,yes,inhibitor
 DB12265,Fexinidazole,unknown,Null
 DB12266,Epofolate,no,inhibitor
@@ -1565,6 +1573,7 @@ DB12808,Trifarotene,unknown,substrate
 DB12816,Terpinen-4-ol,unknown,downregulator
 DB12825,Lefamulin,unknown,substrate
 DB12834,Secnidazole,unknown,Null
+DB12874,Quizartinib,no,substrate
 DB12887,Tazemetostat,unknown,substrate
 DB12923,Gallopamil,no,substrate
 DB12941,Darolutamide,unknown,substrate
@@ -1683,6 +1692,7 @@ DB14840,Ripretinib,unknown,substrate
 DB14881,Oliceridine,no,substrate
 DB14895,Vibegron,no,substrate
 DB14921,Mavacamten,no,Null
+DB14924,Ritlecitinib,unknown,Null
 DB14962,Trastuzumab deruxtecan,unknown,substrate
 DB14973,Abrocitinib,no,substrate
 DB14975,Voxelotor,unknown,substrate
@@ -1700,9 +1710,10 @@ DB15233,Avapritinib,unknown,substrate
 DB15305,Risdiplam,unknown,inhibitor
 DB15305,Risdiplam,unknown,substrate
 DB15328,Ubrogepant,unknown,substrate
-DB15444,Elexacaftor,unknown,Null
+DB15444,Elexacaftor,no,Null
 DB15463,Belzutifan,no,substrate
 DB15489,Mexazolam,unknown,substrate
+DB15490,Zuranolone,no,substrate
 DB15566,Prednisolone acetate,unknown,Null
 DB15568,Adagrasib,unknown,Null
 DB15569,Sotorasib,unknown,substrate
@@ -1715,6 +1726,7 @@ DB15822,Pralsetinib,no,Null
 DB15982,Berotralstat,no,inhibitor
 DB16098,Atogepant,no,substrate
 DB16165,Finerenone,unknown,substrate
+DB16217,Leniolisib,no,substrate
 DB16222,Loncastuximab tesirine,unknown,Null
 DB16226,Maralixibat,no,inhibitor
 DB16236,Mitapivat,no,Null

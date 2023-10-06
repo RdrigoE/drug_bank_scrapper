@@ -1,3 +1,4 @@
+1.17.4.1,P31350,Ribonucleoside-diphosphate reductase subunit M2,DB05260,Gallium nitrate,investigational,unknown,inhibitor
 1.6.4.5,Q16881,"Thioredoxin reductase 1, cytoplasmic",DB01169,Arsenic trioxide,investigational,unknown,inhibitor
 2.4.2.-,P08684,Cytochrome P450 3A4,DB00196,Fluconazole,investigational,unknown,inhibitor
 2.4.2.-,P08684,Cytochrome P450 3A4,DB00254,Doxycycline,investigational,unknown,inhibitor
@@ -22,6 +23,7 @@
 2.4.2.-,P08684,Cytochrome P450 3A4,DB02701,Nicotinamide,investigational,unknown,inhibitor
 2.4.2.-,P08684,Cytochrome P450 3A4,DB04794,Bifonazole,investigational,unknown,inhibitor
 2.4.2.-,P08684,Cytochrome P450 3A4,DB04951,Pirfenidone,investigational,unknown,inhibitor
+2.4.2.-,P08684,Cytochrome P450 3A4,DB06045,Trofinetide,investigational,unknown,inhibitor
 2.4.2.-,P08684,Cytochrome P450 3A4,DB06174,Noscapine,investigational,unknown,inhibitor
 2.4.2.-,P08684,Cytochrome P450 3A4,DB06268,Sitaxentan,investigational,unknown,inhibitor
 2.4.2.-,P08684,Cytochrome P450 3A4,DB08995,Diosmin,investigational,unknown,inhibitor
@@ -30,7 +32,6 @@
 2.4.2.-,P08684,Cytochrome P450 3A4,DB11672,Curcumin,investigational,unknown,inhibitor
 2.4.2.-,P08684,Cytochrome P450 3A4,DB11757,Istradefylline,investigational,unknown,inhibitor
 2.4.2.-,P08684,Cytochrome P450 3A4,DB11994,Diacerein,investigational,unknown,inhibitor
-2.4.2.-,P08684,Cytochrome P450 3A4,DB12070,Letermovir,investigational,unknown,inhibitor
 2.4.2.-,P08684,Cytochrome P450 3A4,DB13878,Pibrentasvir,investigational,unknown,inhibitor
 2.4.2.-,P08684,Cytochrome P450 3A4,DB15305,Risdiplam,investigational,unknown,inhibitor
 2.4.2.-,P08684,Cytochrome P450 3A4,DB15685,Selpercatinib,investigational,unknown,inhibitor

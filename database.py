@@ -124,7 +124,6 @@ def populate_db():
             cur.execute(
                 f"INSERT INTO EC (EC_NUMBER,NAME) VALUES ('{ec[0]}','{ec[1]}')")
         except Exception as e:
-            # ... PRINT THE ERROR MESSAGE ... #
             print(e)
 
     # write the script to sql: Protein
@@ -146,7 +145,6 @@ def populate_db():
             cur.execute(
                 f"INSERT INTO DRUG (DRUG_BANK_ID,NAME,PHARMACOLOGICAL_ACTION,ACTION) VALUES ('{drug[0]}','{drug[1]}','{drug[2]}','{drug[3]}')")
         except Exception as e:
-            # ... PRINT THE ERROR MESSAGE ... #
             print(e)
 
     # write the script to sql: Drug State
@@ -159,7 +157,6 @@ def populate_db():
             cur.execute(
                 f"INSERT INTO drugprotein (EC_NUMBER,UNIPROT_ID,DRUG_BANK_ID,DRUG_GROUP) VALUES ('{drug_p[0]}','{drug_p[1]}','{drug_p[2]}','{drug_p[3]}')")
         except Exception as e:
-            # ... PRINT THE ERROR MESSAGE ... #
             print(e)
 
     # Commit the data
@@ -220,9 +217,6 @@ def populate_db():
 def get_approved_protein_drugs():
     create_db()
     populate_db()
-
-    #bashCommand = 'moderncsv output/approved.csv'
-    #subprocess.check_output(['bash','-c', bashCommand])
 
 
 if __name__ == '__main__':

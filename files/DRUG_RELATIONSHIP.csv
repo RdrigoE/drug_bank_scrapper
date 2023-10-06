@@ -31,6 +31,8 @@
 1.17.4.1,P23921,DB00242,investigational
 1.17.4.1,P23921,DB00631,approved
 1.17.4.1,P23921,DB00631,investigational
+1.17.4.1,P23921,DB01280,approved
+1.17.4.1,P23921,DB01280,investigational
 1.17.4.1,P31350,DB00242,approved
 1.17.4.1,P31350,DB00242,investigational
 1.17.4.1,P31350,DB05260,approved
@@ -867,6 +869,8 @@
 2.4.2.-,P08684,DB05773,investigational
 2.4.2.-,P08684,DB06016,approved
 2.4.2.-,P08684,DB06016,investigational
+2.4.2.-,P08684,DB06045,approved
+2.4.2.-,P08684,DB06045,investigational
 2.4.2.-,P08684,DB06077,approved
 2.4.2.-,P08684,DB06077,investigational
 2.4.2.-,P08684,DB06083,approved
@@ -1162,10 +1166,14 @@
 2.4.2.-,P08684,DB12161,investigational
 2.4.2.-,P08684,DB12235,approved
 2.4.2.-,P08684,DB12235,investigational
+2.4.2.-,P08684,DB12236,approved
+2.4.2.-,P08684,DB12236,investigational
 2.4.2.-,P08684,DB12240,approved
 2.4.2.-,P08684,DB12240,investigational
 2.4.2.-,P08684,DB12245,approved
 2.4.2.-,P08684,DB12245,investigational
+2.4.2.-,P08684,DB12255,approved
+2.4.2.-,P08684,DB12255,investigational
 2.4.2.-,P08684,DB12265,approved
 2.4.2.-,P08684,DB12265,investigational
 2.4.2.-,P08684,DB12267,approved
@@ -1216,6 +1224,8 @@
 2.4.2.-,P08684,DB12808,investigational
 2.4.2.-,P08684,DB12825,approved
 2.4.2.-,P08684,DB12825,investigational
+2.4.2.-,P08684,DB12874,approved
+2.4.2.-,P08684,DB12874,investigational
 2.4.2.-,P08684,DB12887,approved
 2.4.2.-,P08684,DB12887,investigational
 2.4.2.-,P08684,DB12941,approved
@@ -1376,6 +1386,8 @@
 2.4.2.-,P08684,DB16098,investigational
 2.4.2.-,P08684,DB16165,approved
 2.4.2.-,P08684,DB16165,investigational
+2.4.2.-,P08684,DB16217,approved
+2.4.2.-,P08684,DB16217,investigational
 2.4.2.-,P08684,DB16222,approved
 2.4.2.-,P08684,DB16222,investigational
 2.4.2.-,P08684,DB16226,approved
@@ -1407,8 +1419,6 @@
 2.4.2.-,P51606,DB00141,nutraceutical
 2.4.2.-,Q53464,DB03568,experimental
 2.4.2.-,Q53464,DB03568,investigational
-2.4.2.-,Q60099,DB01942,experimental
-2.4.2.-,Q60099,DB01942,investigational
 2.4.2.-,Q9NYV7,DB01032,approved
 2.4.2.-,Q9NYV7,DB01032,investigational
 2.4.2.10,P08870,DB01632,approved
@@ -1682,12 +1692,16 @@
 3.1.3.-,Q96KS0,DB04847,investigational
 3.1.3.-,Q96KS0,DB11682,approved
 3.1.3.-,Q96KS0,DB11682,investigational
+3.1.3.-,Q96KS0,DB12255,approved
+3.1.3.-,Q96KS0,DB12255,investigational
 3.1.3.-,Q9H6Z9,DB00126,approved
 3.1.3.-,Q9H6Z9,DB00126,nutraceutical
 3.1.3.-,Q9H6Z9,DB04847,approved
 3.1.3.-,Q9H6Z9,DB04847,investigational
 3.1.3.-,Q9H6Z9,DB11682,approved
 3.1.3.-,Q9H6Z9,DB11682,investigational
+3.1.3.-,Q9H6Z9,DB12255,approved
+3.1.3.-,Q9H6Z9,DB12255,investigational
 3.1.3.11,P09467,DB00131,approved
 3.1.3.11,P09467,DB00131,investigational
 3.1.3.11,P09467,DB00131,nutraceutical
